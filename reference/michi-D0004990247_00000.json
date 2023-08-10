@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990247_00000",
+  "@type": "Clip",
+  "name": "奥能登の棚田",
+  "description": "詳細: 石川県奥能登の急斜面に築かれた棚田、千枚田。江戸時代、平地の少ない地域で糧を得るために開拓されたのが始まりといいます。ここで米作りをおこなう農家の四季の営みを追います。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/石川"
+    },
+    "都道府県: 石川県",
+    "住所: 輪島市白米町"
+  ]
+}

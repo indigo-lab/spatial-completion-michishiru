@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "福島　前沢集落",
+  "description": "詳細: 福島県南会津町前沢集落。会津の中でも雪深い地域です。茅葺屋根の家が軒を連ね、かつて雪国で見られた風景が今も残ります。この集落の景観を守るため、２０１１年、国の「重要伝統的建造物群保存地区」に選定されました。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

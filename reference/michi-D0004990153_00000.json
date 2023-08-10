@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990153_00000",
+  "@type": "Clip",
+  "name": "螺鈿細工",
+  "description": "詳細: 沖縄県の伝統工芸・螺鈿細工（らでんざいく）。琉球文化の華と呼ばれ、日本の武家や中国の貴族達に愛されてきました。夜光貝からつくられる七色の模様は絵画のように美しく繊細です。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/沖縄"
+    },
+    "住所: 浦添市仲間",
+    "都道府県: 沖縄県"
+  ]
+}

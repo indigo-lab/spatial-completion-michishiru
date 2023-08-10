@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ＪＲ只見線",
+  "description": "詳細: 福島県の会津若松駅から新潟県魚沼市の小出駅までを結ぶＪＲ東日本の鉄道路線です。只見川と美しい山々がおりなす風光明媚な世界を駆け抜けます。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

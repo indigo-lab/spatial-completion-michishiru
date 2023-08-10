@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "唐津くんち",
+  "description": "詳細: 唐津の町が一つになる、１１月の唐津くんち。個性豊かな１４台の曳山が、男たちにひかれ勇壮に町を練り歩きます。女たちはお世話になった人をもてなす、盛大なくんち料理の準備で大忙しです。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "昔語り　おいらん道中",
+  "description": "詳細: 昭和２１年９月１９日、京都島原の太夫道中が１０年ぶりに行なわれました。金糸銀糸の絢爛（けんらん）たる衣装に長柄の傘。見物料は１人１０円だったといいます。\\n\\n（この動画は、１９４６年１０月の日本ニュースです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

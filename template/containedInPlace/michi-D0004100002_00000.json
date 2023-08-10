@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "春日山城跡",
+  "description": "詳細: 上杉謙信は少年時代、林泉寺で修業を積み、１９歳で春日山城主になりました。兼続は林泉寺で生涯の師、上杉謙信と出会い、頭角を現していくのです。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990404_00000",
+  "@type": "Clip",
+  "name": "別府　湯の花",
+  "description": "詳細: 大分県別府市の明礬（みょうばん）温泉。わらぶきの小屋の中では、天然の入浴剤が作られています。３００年変わらず咲き続ける、別府の湯の花。温泉が作り出す、自然の芸術品です。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/大分"
+    },
+    "住所: 別府市明礬温泉",
+    "都道府県: 大分県"
+  ]
+}

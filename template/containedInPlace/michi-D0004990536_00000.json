@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "函館 大謀網漁",
+  "description": "詳細: 北海道函館市南茅部地区には、魚の習性を利用した漁が伝わります。その名も、大謀網（だいぼうあみ）漁。大きな網から小さな網へ魚を誘い込み、大漁を狙います。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

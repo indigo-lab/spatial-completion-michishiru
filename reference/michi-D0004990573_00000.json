@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990573_00000",
+  "@type": "Clip",
+  "name": "博多 子供山笠",
+  "description": "詳細: 博多に夏の到来を告げる博多祗園山笠。山笠にのぼせあがるのは、大人だけではありません。子供だけの山笠を行う小学校を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福岡"
+    },
+    "住所: 福岡市博多区",
+    "都道府県: 福岡県"
+  ]
+}

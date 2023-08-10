@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990422_00000",
+  "@type": "Clip",
+  "name": "長野　手作り花火",
+  "description": "詳細: 長野県阿智村の下清内路地区には、村人による手作り花火の伝統があります。門外不出の秘伝書で作られる秋祭りの花形。火の粉舞い散る勇壮な花火が、村人の心をひとつにします。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長野"
+    },
+    "都道府県: 長野県",
+    "住所: 下伊那郡阿智村"
+  ]
+}

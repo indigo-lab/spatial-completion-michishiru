@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "湘南の邸宅",
+  "description": "詳細: 太陽と海を求める人でにぎわう、神奈川県の湘南。リゾートの概念が西洋からもたらされた明治以降、湘南は別荘地として人気を博しました。文化人が建てた個性的な別荘を紹介します。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

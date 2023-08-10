@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "坂戸城館跡／龍澤寺",
+  "description": "詳細: 坂戸城は、長尾景虎と越後統一をかけて争った長尾政影の本城です。影虎の姉　仙桃院は政影との親睦の証としてこの城に嫁いだといわれ、のちに上杉家を継ぐ景勝を生みました。\\n\\n（この動画は、２００７年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

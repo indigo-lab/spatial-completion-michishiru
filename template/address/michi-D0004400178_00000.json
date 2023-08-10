@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "函館空港",
+  "description": "詳細: 映像は１９６６年（昭和４１）に撮影された函館空港の様子です。函館空港は１９６１年（昭和３６）に開港、函館市の中心部から約１０ｋｍほどのところにあります。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

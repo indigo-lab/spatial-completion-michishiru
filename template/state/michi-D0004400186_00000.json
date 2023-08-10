@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "北海道鉄道開通９０周年　大沼号",
+  "description": "詳細: 映像は１９７０年（昭和４５）に撮影された、北海道鉄道開通９０周年を記念して運行された大沼号の様子です。",
+  "spatial": {
+    "@type": "State",
+    "name": "?"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "桜島",
+  "description": "詳細: 活火山・桜島。鹿児島市街地から４キロほど離れたところにそびえ立っています。火山としてはまだ若く、今も頻繁に噴火を繰り返しています。堂々たるその姿は、町のあちこちで望めます。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "千鳥ヶ淵の桜",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。東京都心の桜の名所、千鳥ヶ淵です。桜が満開の季節、多くの人々が花見に訪れます。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

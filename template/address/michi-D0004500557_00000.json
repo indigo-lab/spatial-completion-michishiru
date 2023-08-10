@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "苗場山",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。標高２、１４５メートルの苗場山。冬、広く平坦な山頂には雪が積もり、雪が木全体を覆ってできた樹氷「アイスモンスター」が姿を現します。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

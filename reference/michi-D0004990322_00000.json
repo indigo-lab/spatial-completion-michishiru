@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990322_00000",
+  "@type": "Clip",
+  "name": "隠れ里の仏さま",
+  "description": "詳細: 世をはかなんだ平安貴族が余生を過ごしたという隠れ里、京都・大原。この里をずっと見守ってきた仏さまがいます。人々は自分たちの守り神として大切にお世話をしてきました。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "住所: 京都市左京区",
+    "都道府県: 京都府"
+  ]
+}

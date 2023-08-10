@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "氷下待網漁",
+  "description": "詳細: 氷点下２０度にもなり、雪と氷に閉ざされる、北海道・野付半島の冬。分厚い氷に穴を開け、その下に網を仕掛ける氷下待網漁（こおりしたまちあみりょう）。野付湾の漁師たちが明治時代から家族で行ってきた伝統の漁です。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

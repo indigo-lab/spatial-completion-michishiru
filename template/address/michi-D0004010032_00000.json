@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "京福電気鉄道",
+  "description": "詳細: 京福電気鉄道が、京都市内で運営する路面電車です。京都市下京区の四条大宮駅から右京区の嵐山駅までを結ぶのが嵐山本線、京都市北区の北野白梅町駅から右京区の帷子ノ辻駅までを結ぶのが北野線です。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

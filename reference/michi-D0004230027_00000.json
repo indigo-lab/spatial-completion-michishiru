@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004230027_00000",
+  "@type": "Clip",
+  "name": "神戸・須磨",
+  "description": "詳細: 神戸市須磨区の商店街に、平重衡（しげひら）が生け捕りにされたと伝わる場所が残っています。須磨寺の名で知られる福祥寺には、源氏や平家にまつわる宝物が数多く残っています。\\n\\n（この動画は、２００５年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/兵庫"
+    },
+    "住所: 神戸市須磨区",
+    "都道府県: 兵庫県"
+  ]
+}

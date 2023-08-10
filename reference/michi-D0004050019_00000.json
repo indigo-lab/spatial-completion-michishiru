@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004050019_00000",
+  "@type": "Clip",
+  "name": "甲府草津温泉",
+  "description": "詳細: 山梨県甲府市の住宅地の中にある草津温泉。戦前からつづく老舗の銭湯は、近所の人にとって、毎日のお風呂代わりとなっています。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山梨"
+    },
+    "都道府県: 山梨県",
+    "住所: 甲府市上石田"
+  ]
+}

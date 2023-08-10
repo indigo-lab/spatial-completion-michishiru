@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "芭蕉布",
+  "description": "詳細: 沖縄の芭蕉布。サラリとした風合いと素朴な色合いが魅力の伝統工芸です。芭蕉の茎から繊維をとりだし、布へ仕上げる工程や、芭蕉布に生涯をかけた女性の思いを紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

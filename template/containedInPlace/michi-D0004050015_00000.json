@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "上栗山温泉",
+  "description": "詳細: 栃木県栗山村。奥鬼怒や川俣など、北関東を代表する温泉が点在するいで湯の里で、唯一温泉の無かった上栗山地区に出来たのが共同浴場、上栗山温泉「開運の湯」です。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

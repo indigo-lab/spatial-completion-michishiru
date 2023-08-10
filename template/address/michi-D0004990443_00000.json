@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "線香花火",
+  "description": "詳細: 日本の夏の風物詩、花火。福岡県みやま市には、線香花火のやさしい輝きを守り続ける花火製造所があります。花火の美しさと、託された思いに触れます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

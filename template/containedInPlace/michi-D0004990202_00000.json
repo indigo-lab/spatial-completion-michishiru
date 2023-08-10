@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "御柱祭　小宮",
+  "description": "詳細: 御柱祭の年、諏訪では、各地の神社などで小宮とよばれる小さな御柱祭が行われます。諏訪大社とは一味違った、地域密着の御柱祭を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

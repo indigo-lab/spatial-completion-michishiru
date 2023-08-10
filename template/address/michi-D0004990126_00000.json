@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "余目ねぎ",
+  "description": "詳細: 宮城県仙台市では、曲がりねぎが広く食されています。ねぎが何故曲がるのか。その秘密は余目地区で江戸時代から続けられる、伝統の栽培方法にありました。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

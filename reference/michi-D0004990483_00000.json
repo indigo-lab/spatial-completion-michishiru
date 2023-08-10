@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990483_00000",
+  "@type": "Clip",
+  "name": "しろえび",
+  "description": "詳細: 富山湾の限られた場所で水揚げされる、しろえび。４月から１１月が漁の時期で、その美しい姿から、富山湾の宝石とも言われます。“けんか網”とも言う漁の様子を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/富山"
+    },
+    "都道府県: 富山県",
+    "住所: 富山市岩瀬天神町"
+  ]
+}

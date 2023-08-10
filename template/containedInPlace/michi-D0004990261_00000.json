@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "座敷雛",
+  "description": "詳細: 愛媛県八幡浜市の真穴地区では、４月初め、華麗な雛飾りが披露されます。家の座敷を開け放ち、雅な世界を演出する座敷雛。女の子の初節句を、地域の皆で祝う行事を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

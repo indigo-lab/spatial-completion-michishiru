@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004100007_00000",
+  "@type": "Clip",
+  "name": "七尾城",
+  "description": "詳細: 七尾城は、能登の守護・畠山氏の居城。石動山に陣を構えていた上杉謙信は、およそ１年かけて七尾城を攻め落としました。勢いを増した謙信は、織田信長軍との戦いを繰り広げて行きます。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/石川"
+    },
+    "都道府県: 石川県",
+    "住所: 鹿島郡中能登町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "茨城　古民家の里",
+  "description": "詳細: 茨城県石岡市八郷地区には、かやぶき屋根の家が多く点在します。屋根には凝った意匠が施され、筑波流とも称えられるほどの発展を遂げてきました。個性豊かな古民家を巡る旅へご案内します。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "日野　土方歳三の生誕地",
+  "description": "詳細: 土方歳三は宿場町石田村（現在の日野市石田）にある豪農の家に生まれました。生家にはいまも歳三ゆかりの品々が展示され、全国から多くのファンが訪れます。\\n\\n（この動画は、２００４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

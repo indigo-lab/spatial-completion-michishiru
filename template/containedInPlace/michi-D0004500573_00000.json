@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "空から見た富士山",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。日本最高峰、標高３７７６メートルの富士山。２０１３年、世界文化遺産に登録。優美な姿は日本を象徴する山として親しまれています。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "屋久杉",
+  "description": "詳細: 世界自然遺産、鹿児島県の屋久島。原始の森として名高い屋久島ですが、なかには切り株も。昭和４０年代まで、島のくらしの中心は林業でした。島の人々と共に歩んできた屋久杉を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

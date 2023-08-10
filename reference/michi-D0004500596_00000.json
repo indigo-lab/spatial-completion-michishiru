@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500596_00000",
+  "@type": "Clip",
+  "name": "愛知　祖父江のイチョウ",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。愛知県稲沢市の祖父江町。秋、１万本を超えるイチョウが町全体を黄金色に染めます。日本一のギンナンの産地としても知られています。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/愛知"
+    },
+    "都道府県: 愛知県",
+    "住所: 稲沢市祖父江町"
+  ]
+}

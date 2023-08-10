@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990273_00000",
+  "@type": "Clip",
+  "name": "京都のお地蔵さま",
+  "description": "詳細: 京都では、お地蔵様に手をあわせる人々の姿をよく見かけます。平清盛が都への出入り口の街道沿いにまつったと伝わる六体の地蔵など、京都・お地蔵さま巡りへとご案内します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "都道府県: 京都府",
+    "住所: 京都市北区"
+  ]
+}

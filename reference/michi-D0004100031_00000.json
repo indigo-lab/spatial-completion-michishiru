@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004100031_00000",
+  "@type": "Clip",
+  "name": "妙教寺／養源院",
+  "description": "詳細: 淀殿は、浅井長政と織田信長の妹・お市の間に生まれました。淀殿は、秀吉の嫡子「鶴松」を生み、天下人・秀吉の威光を背景に力を増していきました。\\n\\n（この動画は、２００９年に取材したものです）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "住所: 京都市東山区",
+    "都道府県: 京都府"
+  ]
+}

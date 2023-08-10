@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990365_00000",
+  "@type": "Clip",
+  "name": "霧島の水",
+  "description": "詳細: 二十をこえる火山が連なる、宮崎、霧島連山。麓の小林市では、霧島連山を貯水源とする水が一日およそ８万トン以上もわき出ています。霧島から湧く豊かな水がこの地で育むものは･･･。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/宮崎"
+    },
+    "住所: 小林市",
+    "都道府県: 宮崎県"
+  ]
+}

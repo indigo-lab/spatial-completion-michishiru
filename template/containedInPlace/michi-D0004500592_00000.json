@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "富山　称名川溪谷",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。富山県、立山連峰のふもとにある称名川溪谷。日本一の落差３５０メートルを誇る、名勝・称名滝があります。\\n",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

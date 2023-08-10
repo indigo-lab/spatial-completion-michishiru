@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "中津渓谷の紅葉",
+  "description": "詳細: 高知県の清流、仁淀川の上流域にある中津渓谷。１１月に入ると木々の葉が色づき始めます。紅葉が「仁淀ブルー」を彩ります。\\n\\n（この動画は、２０１８年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

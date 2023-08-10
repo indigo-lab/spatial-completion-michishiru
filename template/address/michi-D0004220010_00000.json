@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "姉川古戦場",
+  "description": "詳細: 滋賀県長浜市の北部にある姉川。ここは織田信長と浅井長政が激戦を繰り広げた場所です。多くの死傷者を出したという姉川の戦いでは、川が兵士たちの血によって赤く染まったと伝えられます。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

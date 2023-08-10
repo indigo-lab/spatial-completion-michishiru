@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990077_00000",
+  "@type": "Clip",
+  "name": "室生寺",
+  "description": "詳細: 奈良県宇陀市にある室生寺。ここに、法隆寺に次ぐ歴史を持つと言われる五重塔があります。平成１０年の修復作業でその内部に意外な発見がありました。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "住所: 宇陀市室生",
+    "都道府県: 奈良県"
+  ]
+}

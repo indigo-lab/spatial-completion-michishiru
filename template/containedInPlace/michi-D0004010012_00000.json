@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "真岡鉄道",
+  "description": "詳細: 茨城県筑西市の下館駅から栃木県芳賀郡茂木町の茂木駅に至る第３セクターの真岡鐵道が運営する鉄道路線です。愛称は「コットン・ウェイ」です。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

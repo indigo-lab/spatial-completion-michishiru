@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "神奈川県茅ヶ崎市",
+  "description": "詳細: 相模湾に面した茅ヶ崎市は、昔からサーフィンが盛んな町。街中にはサーフショップがおよそ３０軒。湘南を代表する、サーファーの楽園です。\\n\\n（この動画は、２００８年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

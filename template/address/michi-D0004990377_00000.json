@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "佐渡の柿",
+  "description": "詳細: 新潟県の佐渡は、島の７割が山林に覆われています。傾斜地の田畑は狭くて稲作に不向きだったため、昭和の初めから柿栽培にを始めました。丁寧な作業で、高品質の柿を育てます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "三厩駅（ＪＲ津軽線）",
+  "description": "詳細: 津軽半島の最北端にある、青森県の三厩駅（みんまやえき）。普段は地元の高校生を隣駅へ運ぶ静かな駅が、休日は観光客で賑わいます。町の歴史と駅の営みを描きます。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400069_00000",
+  "@type": "Clip",
+  "name": "買物公園オープン",
+  "description": "詳細: ＮＨＫが取材してきた膨大なニュース映像の中から、昭和３０年代以降の旭川の主な動きを紹介。昭和４７年（１９７２年）、旭川買物公園オープンの記念セレモニー。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 旭川市平和通",
+    "都道府県: 北海道"
+  ]
+}

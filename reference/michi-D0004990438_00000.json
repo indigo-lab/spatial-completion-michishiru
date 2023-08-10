@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990438_00000",
+  "@type": "Clip",
+  "name": "天童の将棋駒",
+  "description": "詳細: 山形県天童市は将棋駒の日本一の産地。武士の内職として奨励されたのをきっかけに盛んになりました。プロ棋士のタイトル戦などで使う高級な駒は、およそ２ヶ月かけて制作します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "住所: 天童市老野森",
+    "都道府県: 山形県"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "新潟　佐渡",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。新潟県佐渡島。島の最北端には、「二ツ亀」や「大野亀」など、自然が造り出した独特の地形が見られます。",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

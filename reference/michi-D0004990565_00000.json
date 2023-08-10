@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990565_00000",
+  "@type": "Clip",
+  "name": "打瀬船",
+  "description": "詳細: 九州・八代海に伝わる伝統の漁があります。風の力を利用した珍しい漁で、欠かせないのが打瀬船。冬場に狙うのは、アシアカエビ。夫婦ふたり、力をあわせて漁にいそしみます。\\n\\n（この動画は、２０１５年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/熊本"
+    },
+    "住所: 葦北郡芦北町",
+    "都道府県: 熊本県"
+  ]
+}

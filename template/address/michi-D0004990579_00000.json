@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大島紬",
+  "description": "詳細: 鹿児島県奄美大島の特産品・大島紬。江戸時代、幕府への献上品として重宝された、絹織物です。上品な色合いと精緻な柄で、着物ファンを魅了します。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

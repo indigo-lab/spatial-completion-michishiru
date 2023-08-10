@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220048_00000",
+  "@type": "Clip",
+  "name": "高知城と城下町",
+  "description": "詳細: 高知は山内一豊が築いた城下町です。土佐は雨量が多い国です。南北を川に挟まれた城下町を水害から守るため、広範囲にわたる治水整備が行われました。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/高知"
+    },
+    "都道府県: 高知県",
+    "住所: 高知市丸ノ内"
+  ]
+}

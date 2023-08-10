@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990366_00000",
+  "@type": "Clip",
+  "name": "桐下駄",
+  "description": "詳細: 桐工芸が盛んな福島県喜多方市。会津の厳しい冬の寒さと夏の暑さは、年輪の詰まった堅い桐を育みます。下駄の最高峰と言われている、会津の桐下駄を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福島"
+    },
+    "都道府県: 福島県",
+    "住所: 喜多方市"
+  ]
+}

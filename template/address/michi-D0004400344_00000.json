@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "迫間橋",
+  "description": "詳細: 迫間橋は１８２９年（文政１２）架橋の石橋です。地元の石工によって建造され、長年、人々に大切に使用されてきました。 輪石が薄く、平らで美しいアーチが特徴です。\\n\\n長さ　３６．４ｍ　　幅　４ｍ\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "鮎の友釣り",
+  "description": "詳細: 長良川の上流・郡上八幡。鮎釣りの解禁日には、全国から太公望が集い、友釣りの腕を競います。釣りが楽しめるのは秋までの４カ月ほど、釣り人たちの真剣勝負を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990439_00000",
+  "@type": "Clip",
+  "name": "南部もぐり",
+  "description": "詳細: 岩手県洋野町に１００年以上前から伝わる潜水技術、南部もぐり。海の幸の宝庫であるこの地では、４月になると、南部もぐりを武器に、ホヤ漁が始まります。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岩手"
+    },
+    "住所: 九戸郡洋野町",
+    "都道府県: 岩手県"
+  ]
+}

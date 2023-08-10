@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990515_00000",
+  "@type": "Clip",
+  "name": "嘉例川駅",
+  "description": "詳細: 九州最古の木造駅舎、嘉例川駅。普段は静かな無人駅ですが、週末には大勢の鉄道ファンが訪れます。地域の住民が大切に手入れをし、地元の食材で作る駅弁も人気を集めています。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/鹿児島"
+    },
+    "都道府県: 鹿児島県",
+    "住所: 霧島市隼人町"
+  ]
+}

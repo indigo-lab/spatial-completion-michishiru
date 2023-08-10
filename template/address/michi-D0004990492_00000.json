@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "修善寺のあじずし",
+  "description": "詳細: 伊豆、修善寺。東京から特急で２時間、温泉も楽しめる人気の観光地です。修善寺駅の名物、「あじずし」の美味しさの秘密を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

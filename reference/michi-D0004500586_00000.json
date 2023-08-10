@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500586_00000",
+  "@type": "Clip",
+  "name": "大雪山系　旭岳",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。標高２２９１メートル、北海道の最高峰、大雪山系の旭岳。９月に入ると山頂付近から紅葉が始まります。日本一早い紅葉です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 上川郡東川町ノカナン 旭岳",
+    "都道府県: 北海道"
+  ]
+}

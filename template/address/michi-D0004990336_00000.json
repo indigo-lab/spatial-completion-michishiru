@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "水間観音駅（水間鉄道）",
+  "description": "詳細: 大阪府の南部、貝塚市を走る水間（みずま）鉄道。奈良時代に創建された水間寺への参拝のため、大正１３年に創業されました。お寺を支えてきた地元の人たちは、水間鉄道とも深い関わりがあります。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

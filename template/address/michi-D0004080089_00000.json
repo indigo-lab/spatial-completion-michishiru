@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "若草山　山焼き",
+  "description": "詳細: 奈良公園の東端に位置する若草山では、毎年１月、草を焼き払う「山焼き」が行われます。古都奈良の新年を飾る炎の祭礼。時代を超えて守り継がれる美しい火の風物詩です。\\n\\n（この動画は、２００６年に放送したものです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

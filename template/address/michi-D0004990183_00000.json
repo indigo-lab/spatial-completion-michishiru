@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "鎌倉の雲水",
+  "description": "詳細: 古都・鎌倉で見かける修行僧の姿。家々を訪ね、ほどこしを受ける托鉢修行に励む雲水です。禅宗の寺・建長寺で修行する雲水たちの一日を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "倉敷のジーンズ",
+  "description": "詳細: 岡山県倉敷市児島地区。全国有数の繊維の町です。戦後、初の国産と言われるジーンズが産まれました。倉敷の歴史が育んだ、世界に一本のジーンズを紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

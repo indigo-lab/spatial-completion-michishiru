@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500145_00000",
+  "@type": "Clip",
+  "name": "播州毛鉤",
+  "description": "詳細: 毛鉤（けばり）とは水生昆虫を模して魚をおびき寄せる疑似針のこと。全国の毛鉤生産の９割以上を占めるのが、兵庫県の播州地域で作られる播州毛鉤です。\\n\\n（この動画は、２０１３年に放送したものです）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/兵庫"
+    },
+    "住所: 丹波市山南町",
+    "都道府県: 兵庫県"
+  ]
+}

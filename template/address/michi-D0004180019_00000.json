@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "山本晴幸生誕地碑／賀茂神社／医王山　本願寺",
+  "description": "詳細: 豊橋市の北に位置する賀茂町（かもちょう）は、山本勘助の生誕地と言われています。勘助の生家は、賀茂神社の神官の屋敷が集まっていた辺りにあったといいます。\\n\\n（この動画は、２００７年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

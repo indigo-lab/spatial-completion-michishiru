@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500581_00000",
+  "@type": "Clip",
+  "name": "空から見た槍ヶ岳",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。標高３１８０ｍの槍ヶ岳。天に槍をつく形から、「日本のマッターホルン」とも呼ばれ、登山家たち憧れの山になっています。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長野"
+    },
+    "都道府県: 長野県",
+    "住所: 大町市平 槍ヶ岳"
+  ]
+}

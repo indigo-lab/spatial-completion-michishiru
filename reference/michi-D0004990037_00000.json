@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990037_00000",
+  "@type": "Clip",
+  "name": "軽井沢の恋",
+  "description": "詳細: 避暑地として名高い「軽井沢」。昭和８年の夏、作家の堀辰雄は、結核の療養のためにこの地を訪れました。そこで生まれた切なく哀しい恋が、名作「風立ちぬ」を誕生させました。\\n\\n（この動画は、２０１０年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長野"
+    },
+    "都道府県: 長野県",
+    "住所: 北佐久郡軽井沢町"
+  ]
+}

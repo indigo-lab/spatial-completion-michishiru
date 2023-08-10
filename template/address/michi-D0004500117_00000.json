@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "常願寺川",
+  "description": "詳細: 北アルプスを源に、富山平野東部を流れ、富山湾に注ぐ常願寺川。日本屈指の急流として知られています。普段、川の水は小石の多い地下を流れ、姿を見せません。しかし、集中豪雨の時などは、手の付けられない暴れ川となります。\\n\\n（この動画は、１９９８年に放送したものです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

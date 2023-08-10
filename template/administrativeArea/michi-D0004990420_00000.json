@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "沖縄　中身汁",
+  "description": "詳細: 沖縄本島北部、名護市。旧盆の日、親戚一同が集まり、ご先祖さまとともに過ごしながらいただく料理があります。遠い祖先から伝わる御馳走を紹介します。\\n\\n（この動画は、２０１０年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

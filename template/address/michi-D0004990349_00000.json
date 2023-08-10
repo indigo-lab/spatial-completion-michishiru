@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "壱岐のマグロ",
+  "description": "詳細: マグロ漁の一大基地、長崎県の壱岐・勝本地区。ここでは、網をつかわずに竿一本でマグロを釣り上げます。するめいかを餌に、漁師とマグロの一騎打ち。壱岐伝統のマグロ漁を紹介します。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

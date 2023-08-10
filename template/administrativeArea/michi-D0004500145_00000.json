@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "播州毛鉤",
+  "description": "詳細: 毛鉤（けばり）とは水生昆虫を模して魚をおびき寄せる疑似針のこと。全国の毛鉤生産の９割以上を占めるのが、兵庫県の播州地域で作られる播州毛鉤です。\\n\\n（この動画は、２０１３年に放送したものです）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

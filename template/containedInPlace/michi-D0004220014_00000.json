@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "長浜城",
+  "description": "詳細: 滋賀県長浜市は豊臣秀吉ゆかりの地です。秀吉は戦略的に重要な琵琶湖の水運を、商いのためにも利用して街づくりを行いました。秀吉を慕う町の人々によって豊国神社が建立されました。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

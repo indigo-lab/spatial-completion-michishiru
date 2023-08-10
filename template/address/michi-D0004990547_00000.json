@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "笠網漁",
+  "description": "詳細: 愛知県、出沢（すざわ）。この集落に、全国でここだけにしかない漁法・笠網漁（かさあみりょう）が伝えられています。使われるのは、虫取り網のような、竿の長い網。その独特の方法とは？\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

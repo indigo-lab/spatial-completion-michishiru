@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "日光　徳川の聖地",
+  "description": "詳細: 徳川将軍家の聖地、栃木県日光。家康の霊廟・東照宮は、５千を超す彫刻で彩られ、その威光を今に伝えます。家康の孫・家光の霊廟も日光にあり、祖父に寄せた思いが偲ばれます。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

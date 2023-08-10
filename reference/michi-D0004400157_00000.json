@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400157_00000",
+  "@type": "Clip",
+  "name": "木古内町　寒中みそぎ祭り",
+  "description": "詳細: 映像は１９５１年（昭和２６）撮影の木古内町・寒中みそぎ祭りの様子です。みそぎ祭は、木古内町・佐女川神社で江戸期から続くご神事です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 上磯郡木古内町",
+    "都道府県: 北海道"
+  ]
+}

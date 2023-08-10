@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "高松・屋島",
+  "description": "詳細: 香川県高松市屋島は源平両軍が衝突した土地です。壮絶な合戦の果て、平家は安徳天皇を奉じて屋島を去ったのです。\\n\\n（この動画は、２００５年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

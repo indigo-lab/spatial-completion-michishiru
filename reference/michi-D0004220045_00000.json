@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220045_00000",
+  "@type": "Clip",
+  "name": "宗安寺",
+  "description": "詳細: 彦根市にある宗安寺の山門は、石田光成の居城、佐和山城の大手門を移築したものと伝わっています。この寺には戦火を避け城下から運び出されたという三成ゆかりの千体仏が残っています。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/滋賀"
+    },
+    "都道府県: 滋賀県",
+    "住所: 彦根市本町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990224_00000",
+  "@type": "Clip",
+  "name": "蔵王の干し柿",
+  "description": "詳細: 蔵王連峰から吹き下ろす冷たい風。山形県上山市では、この風は恵みの風。特産品・干し柿に、極上の甘みをもたらすといいます。厳しい自然と丁寧な干し柿作りを紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "住所: 上山市",
+    "都道府県: 山形県"
+  ]
+}

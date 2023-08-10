@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "南部もぐり",
+  "description": "詳細: 岩手県洋野町に１００年以上前から伝わる潜水技術、南部もぐり。海の幸の宝庫であるこの地では、４月になると、南部もぐりを武器に、ホヤ漁が始まります。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

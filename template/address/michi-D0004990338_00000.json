@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "伊勢神宮の森",
+  "description": "詳細: 三重県の伊勢神宮。境内１２５の社全てが、式年遷宮と呼ばれる儀式によって２０年毎に建て替えられます。神宮の周囲に広がる深い森では、遷宮で使うための檜が育てられています。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

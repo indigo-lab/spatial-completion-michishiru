@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220025_00000",
+  "@type": "Clip",
+  "name": "大徳寺総見院",
+  "description": "詳細: 京都府北区にある大徳寺。羽柴秀吉はここで主君・織田信長のために盛大な葬儀を営みました。総見院という寺の名は信長の法名に由来します。\\n\\n※総見院は特別公開時のみ拝観可能\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "都道府県: 京都府",
+    "住所: 京都市北区"
+  ]
+}

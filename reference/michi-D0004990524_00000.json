@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990524_00000",
+  "@type": "Clip",
+  "name": "東京下町　いなりずし",
+  "description": "詳細: 江戸の初めに開かれた東京都墨田区界わい。春のお彼岸に仏さまにお供えするのは、ぼたもちではなくいなりずし。きっかけは、水野忠邦による天保の改革でした。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/東京"
+    },
+    "都道府県: 東京都",
+    "住所: 墨田区本所"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990445_00000",
+  "@type": "Clip",
+  "name": "笹野一刀彫",
+  "description": "詳細: 山形県米沢市の笹野地区に伝わる工芸品、笹野一刀彫。江戸時代、上杉鷹山が冬の副業として奨励し、広まりました。小刀一本で木を削り、鷹などの縁起物を彫り上げます。\\n\\n（この動画は、２０１４年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "住所: 米沢市笹野本町",
+    "都道府県: 山形県"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004230035_00000",
+  "@type": "Clip",
+  "name": "下関・壇ノ浦",
+  "description": "詳細: 山口県下関市、ここで源平最後の合戦、壇ノ浦（だんのうら）の戦いが繰り広げられました。平家滅亡の地、壇ノ浦には今も多くの人が訪れます。\\n\\n（この動画は、２００５年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山口"
+    },
+    "住所: 下関市みもすそ川町",
+    "都道府県: 山口県"
+  ]
+}

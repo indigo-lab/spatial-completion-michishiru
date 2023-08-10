@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "尾道",
+  "description": "詳細: 広島県尾道市は、坂と路地の町。車が入れないため、ゴミの収集は昔ながらの天秤棒が活躍しています。不便なことが多い分、隣近所が互いに助け合って暮らす文化が根付いています。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

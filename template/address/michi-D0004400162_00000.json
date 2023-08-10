@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "花見でにぎわう松前公園",
+  "description": "詳細: 映像は１９６１年（昭和３６）撮影の松前公園の様子です。公園内には数多くの史跡があります。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

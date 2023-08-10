@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990125_00000",
+  "@type": "Clip",
+  "name": "遠野のお盆",
+  "description": "詳細: 「遠野物語」で知られる、岩手県遠野市。お盆におこなわれる独特の伝統行事を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岩手"
+    },
+    "住所: 遠野市附馬牛町",
+    "都道府県: 岩手県"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990427_00000",
+  "@type": "Clip",
+  "name": "房総の楊枝",
+  "description": "詳細: 千葉県君津市久留里地区では、細工を施した高級楊枝が作られています。もともと武士の内職として奨励されたのが始まりです。黒文字という香りの良い木から楊枝を作る技を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/千葉"
+    },
+    "都道府県: 千葉県",
+    "住所: 君津市青柳"
+  ]
+}

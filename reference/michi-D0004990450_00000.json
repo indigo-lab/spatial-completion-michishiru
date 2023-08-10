@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990450_00000",
+  "@type": "Clip",
+  "name": "山形のカブ",
+  "description": "詳細: 山形県最上地方では、冬の保存食として、カブが重宝されています。山をひとつ越えると違うカブがあると言われるほど、個性豊かなカブ。冬支度の様子とともにお伝えします。\\n\\n（この動画は、２０１３年に放送したものです。）\\n",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "住所: 最上郡舟形町",
+    "都道府県: 山形県"
+  ]
+}

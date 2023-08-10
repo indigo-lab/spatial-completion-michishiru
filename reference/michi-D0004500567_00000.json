@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500567_00000",
+  "@type": "Clip",
+  "name": "愛媛　石鎚山",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。標高１，９８２ｍの愛媛県石鎚山。古くから山岳信仰の山として人々に崇められてきました。山頂に向かう人々の様子を空から紹介します。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/愛媛"
+    },
+    "都道府県: 愛媛県",
+    "住所: 上浮穴郡久万高原町若山"
+  ]
+}

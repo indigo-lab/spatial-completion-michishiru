@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "阿波おどり",
+  "description": "詳細: 夏の徳島と言えば阿波おどり。お盆の時期、町は阿波おどり一色に染まります。男女で違う踊りの特色、盆踊りとしてのルーツなど、阿波おどりのイロハを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "横浜三塔",
+  "description": "詳細: 開港以来、近代化のさきがけとして発展してきた横浜。歴史を物語る洋風建築が、町のあちこちで見られます。なかでも象徴的なのが「横浜三塔」。その特徴と由来を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

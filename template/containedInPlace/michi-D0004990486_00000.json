@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "清水寺　水の縁",
+  "description": "詳細: 京都東山清水寺。京都随一の観光名所です。１２００年枯れたことがないと言われる寺の境内にある清水山の湧水。水がつなぐご縁を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

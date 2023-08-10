@@ -1,0 +1,1 @@
+{"model":"gpt-3.5-turbo-0613","messages":[{"role":"system","content":"あなたは与えられた JSON-LD の中の \"?\" の部分に文字列を補完して JSON-LD を返すエージェントです"},{"role":"user","content":"{\"@context\":\"http://schema.org/\",\"@type\":\"Clip\",\"name\":\"八甲田丸就航\",\"description\":\"詳細: 映像は１９６４年（昭和３９）に撮影された青函連絡船　八甲田丸の就航の様子です。八甲田丸は１９８８年３月に青森発最終便として運行、その役割を終えました。\",\"spatial\":\"?\"}"}],"temperature":0}

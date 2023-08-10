@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990138_00000",
+  "@type": "Clip",
+  "name": "美瑛　四季の風景",
+  "description": "詳細: １年を通して、美しい風景を堪能できる北海道美瑛。大地を耕し、種を植え、収穫し、雪解けを待つ。農家の営みが、四季折々、大地に描き出す景色を美しい映像でお届けします。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 上川郡美瑛町",
+    "都道府県: 北海道"
+  ]
+}

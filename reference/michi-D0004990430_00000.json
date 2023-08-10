@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990430_00000",
+  "@type": "Clip",
+  "name": "手筒花火",
+  "description": "詳細: 日本で初めて、花火が上げられたという愛知県豊橋。４００年以上の歴史を誇る、手筒花火の発祥地です。豊橋の男たちが技と度胸を張り合う夏祭りまでの様子を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/愛知"
+    },
+    "都道府県: 愛知県",
+    "住所: 豊橋市関屋町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "五稜郭タワー建設進む",
+  "description": "詳細: 映像は旧・五稜郭タワーの建設風景です。旧・五稜郭タワーは五稜郭築城１００年を記念して、１９６４年（昭和３９）に開業しました。現在の新タワーが完成した２００６年６月に解体されました。\\n\\n※表記の放送年は旧・五稜郭タワー開業年",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

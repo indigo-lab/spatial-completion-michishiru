@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "蓮華寺",
+  "description": "詳細: 愛知県あま市（旧美和町）。木曽川と長良川の恵みを受けるこの地は、戦国の名将、福島正則と蜂須賀小六正勝の出生地です。蜂須賀家は阿波の国を与えられ、幕末まで続きました。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

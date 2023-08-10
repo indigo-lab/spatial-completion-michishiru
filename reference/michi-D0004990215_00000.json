@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990215_00000",
+  "@type": "Clip",
+  "name": "こんぴらさん～例大祭",
+  "description": "詳細: ７８５段の石段を上って初めて会える神様、四国香川のこんぴらさん。神様は年に一度の例大祭に、麓の町に降り立ちます。この日を待ちわびた人々が参拝に集まります。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/香川"
+    },
+    "住所: 仲多度郡琴平町",
+    "都道府県: 香川県"
+  ]
+}

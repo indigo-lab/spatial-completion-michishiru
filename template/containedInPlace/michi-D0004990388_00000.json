@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "会津と薙刀",
+  "description": "詳細: 福島県会津若松市。かつて、会津女性のたしなみだった名残で薙刀が盛んな地です。その曲がらぬ信念と強い意志は今もなお健在。凛とした姿をご紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

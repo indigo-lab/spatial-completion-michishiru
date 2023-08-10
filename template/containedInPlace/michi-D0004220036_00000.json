@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "掛川城",
+  "description": "詳細: 静岡県掛川市。山内一豊がおよそ十年にわたって城主を務めた町です。天守を築き大規模な都市づくりを行った一豊によって、掛川は飛躍的発展を遂げました。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

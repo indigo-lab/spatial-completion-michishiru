@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990119_00000",
+  "@type": "Clip",
+  "name": "栃餅",
+  "description": "詳細: 山形県鶴岡市の特産品、栃餅（とちもち）。里山で拾い集めた栃の実を、この地方に伝わる伝統的な方法であく抜きして作る工程を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "都道府県: 山形県",
+    "住所: 鶴岡市行沢"
+  ]
+}

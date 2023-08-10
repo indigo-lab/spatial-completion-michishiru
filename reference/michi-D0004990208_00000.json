@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990208_00000",
+  "@type": "Clip",
+  "name": "水の都　島原",
+  "description": "詳細: 雲仙の山々がもたらす豊富な水に恵まれた島原。町中にはいたるところにわき水があり、昔ながらの共同洗い場が今なお大切に利用されています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長崎"
+    },
+    "住所: 島原市",
+    "都道府県: 長崎県"
+  ]
+}

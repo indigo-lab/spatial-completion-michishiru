@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "鹿子舞（獅子舞）",
+  "description": "詳細: 映像は１９７５年（昭和５０）に撮影された、厚沢部町に伝わる伝統芸能・鹿子舞（獅子舞）の様子です。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?"
+  }
+}

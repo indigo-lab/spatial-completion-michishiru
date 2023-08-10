@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ＪＲ日高本線",
+  "description": "詳細: 北海道の苫小牧駅から様似郡様似町の様似駅を結ぶＪＲ北海道の路線です。北海道の大地、サラブレッドの牧場、反対側の窓には青い海が広がる、雄大な景観を楽しむことができます。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

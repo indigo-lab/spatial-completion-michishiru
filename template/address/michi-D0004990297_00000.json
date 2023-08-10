@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "日光山　輪王寺",
+  "description": "詳細: 山岳信仰の聖地として知られる日光。１２００年前に、日光山の開祖、勝道上人が創建したという日光山輪王寺。日光の山々を表すという三体の本尊と、春に行われる強飯式を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

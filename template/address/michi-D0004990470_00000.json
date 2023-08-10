@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "京都と小浜",
+  "description": "詳細: 福井県小浜市三丁町。かつてこのあたりは、京都と見まがうほどの花街でした。鯖街道を通って、京都と小浜を、様々な文化が行き交いました。人々の縁を結び、文化や習わしを伝える鯖の道は、文化の道です。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990050_00000",
+  "@type": "Clip",
+  "name": "築地のまぐろ",
+  "description": "詳細: 築地市場で取引されるまぐろ。競りの様子や、おいしいまぐろの見分け方などを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/東京"
+    },
+    "住所: 中央区築地",
+    "都道府県: 東京都"
+  ]
+}

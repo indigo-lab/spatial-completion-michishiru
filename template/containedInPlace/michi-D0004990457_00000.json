@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "川越の漆喰",
+  "description": "詳細: 埼玉・川越には、漆喰で塗り固めた蔵造りの家が並びます。伝統の技を受け継ぐ左官職人はいまも健在です。壁に命を吹き込む技を、次世代につなごうと奮闘しています。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

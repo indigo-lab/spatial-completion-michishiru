@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "彦根城と桜",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。桜の季節を迎えた国宝・彦根城。花見の観光客でにぎわいます。",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

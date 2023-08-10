@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "三陸のワカメ",
+  "description": "詳細: 日本一の生産量を誇る三陸のワカメ漁。漁は家族総出で手伝い、ワカメを使った三陸のおふくろの味は母から娘へ受け継がれます。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

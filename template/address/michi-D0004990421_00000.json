@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "沖縄のお盆",
+  "description": "詳細: 沖縄県では、伝統行事はいまも旧暦です。先祖への心づくしのもてなしと家族の笑顔にあふれた、沖縄のお盆を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

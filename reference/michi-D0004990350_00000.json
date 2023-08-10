@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990350_00000",
+  "@type": "Clip",
+  "name": "狭山茶",
+  "description": "詳細: 狭山茶の名産地、埼玉県入間市。５月、一番茶の収穫が始まります。やわらかな新芽を手で摘む手摘み風景も健在です。狭山伝統の手もみ茶がどのように作られるのか、紹介します。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/埼玉"
+    },
+    "都道府県: 埼玉県",
+    "住所: 入間市二本木"
+  ]
+}

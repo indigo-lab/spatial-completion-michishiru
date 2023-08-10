@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "呼子のイカ",
+  "description": "詳細: 玄界灘に面した漁業の町、佐賀県呼子（よぶこ）町。男たちがとってきた海の幸を、女たちが売るようになり朝市が始まりました。今では、５０軒ほどの店が並び一年中イカを楽しめます。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

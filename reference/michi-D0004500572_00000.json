@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500572_00000",
+  "@type": "Clip",
+  "name": "北海道　洞爺湖",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。北海道・洞爺湖。湖の中央には中島、湖畔には温泉街がある、北海道でも有数の観光地です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 虻田郡洞爺湖町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "瀬棚線に初の急行",
+  "description": "詳細: 映像は１９６６年（昭和４１）に撮影された急行「せたな」運転開始日の様子です。急行「せたな」は函館駅～瀬棚駅間を函館本線・瀬棚線経由で結びました。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

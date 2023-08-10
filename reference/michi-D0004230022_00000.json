@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004230022_00000",
+  "@type": "Clip",
+  "name": "石清水八幡宮",
+  "description": "詳細: 石清水（いわしみず）八幡宮は平安京の守り神として創建されました。八幡宮の文書に、若き日の平清盛が祭事で初めて舞を披露した記録が残っています。\\n\\n（この動画は、２００５年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "都道府県: 京都府",
+    "住所: 八幡市八幡高坊"
+  ]
+}

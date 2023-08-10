@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "御陣乗太鼓",
+  "description": "詳細: 石川県輪島の伝統芸能、御陣乗太鼓。鬼気迫る面をつけ、太鼓を乱れ打ちます。その背景には、村を守ろうと立ち上がった４００年前の出来事がありました。迫力の演奏と歴史を描きます。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

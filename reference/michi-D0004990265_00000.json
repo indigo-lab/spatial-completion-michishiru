@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990265_00000",
+  "@type": "Clip",
+  "name": "御陣乗太鼓",
+  "description": "詳細: 石川県輪島の伝統芸能、御陣乗太鼓。鬼気迫る面をつけ、太鼓を乱れ打ちます。その背景には、村を守ろうと立ち上がった４００年前の出来事がありました。迫力の演奏と歴史を描きます。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/石川"
+    },
+    "都道府県: 石川県",
+    "住所: 輪島市名舟町"
+  ]
+}

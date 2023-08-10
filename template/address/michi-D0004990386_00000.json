@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "白虎隊",
+  "description": "詳細: 会津若松・飯盛山。白虎隊の若者たちが短い命を散らした場所です。春と秋、飯盛山で行われる白虎隊の慰霊祭で剣舞が奉納されます。舞うのは白虎隊と同じ年頃の高校生です。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

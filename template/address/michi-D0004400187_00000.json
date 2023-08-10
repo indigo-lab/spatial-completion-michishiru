@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "函館市電",
+  "description": "詳細: 映像は１９７１年（昭和４６）に撮影された函館市電３００型のサヨナラ運転の様子です。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

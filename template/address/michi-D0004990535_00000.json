@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "関門海峡　ひびく歌声",
+  "description": "詳細: 本州と九州を隔てる関門海峡。その両岸で向き合うのは、山口・下関と、北九州・門司。海はあれども隣町、様々な方法で行き来ができます。寄り添い続ける２つの街を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

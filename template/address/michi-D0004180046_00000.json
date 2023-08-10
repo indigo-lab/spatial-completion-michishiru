@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "厩橋城址／三夜澤　赤城神社／滝沢不動堂",
+  "description": "詳細: 関東制圧を狙う長尾景虎は、厩橋城を手中に収め、ここから北条氏康との戦いに出陣しました。しかし、景虎の死後、厩橋城は武田勝頼の手に渡ります。\\n\\n（この動画は、２００７年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

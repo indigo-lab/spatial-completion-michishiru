@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220021_00000",
+  "@type": "Clip",
+  "name": "長浜　木之本",
+  "description": "詳細: 滋賀県長浜市木之本町。戦国時代、ここは多くの戦乱に見舞われてきました。また、馬の売買が盛んに行われ、名馬を探し求める人々が馬の試し乗りをしたと言われています。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/滋賀"
+    },
+    "住所: 長浜市木之本町",
+    "都道府県: 滋賀県"
+  ]
+}

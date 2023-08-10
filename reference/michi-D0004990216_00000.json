@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990216_00000",
+  "@type": "Clip",
+  "name": "与那国島のこんぴら信仰",
+  "description": "詳細: 江戸時代、海の神様として名高いこんぴらさんは、北前船などによって全国に広まりました。現在、神職のいない沖縄の小さな島にもその信仰は根付いています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/沖縄"
+    },
+    "都道府県: 沖縄県",
+    "住所: 八重山郡与那国町"
+  ]
+}

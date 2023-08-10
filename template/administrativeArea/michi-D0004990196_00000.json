@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "瑞巌寺門前町",
+  "description": "詳細: 宮城県松島にある、伊達政宗ゆかりの寺・瑞巌寺。その門前町で暮らす人々の風景と瑞巌寺最大の盆行事を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

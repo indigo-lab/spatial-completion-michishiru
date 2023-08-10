@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500233_00000",
+  "@type": "Clip",
+  "name": "法隆寺　仏像群",
+  "description": "詳細: 創建以来１４００年という悠久の時を経てきた法隆寺には、飛鳥時代に始まる数々の貴重な仏教美術が大切に守られています。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "都道府県: 奈良県",
+    "住所: 生駒郡斑鳩町"
+  ]
+}

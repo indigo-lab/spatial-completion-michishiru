@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "外川駅（銚子電鉄）",
+  "description": "詳細: 千葉県のローカル鉄道・銚子電鉄。終点の外川駅は、築９０年を越える木造駅舎です。昭和の薫りが残るのどかな駅舎を紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

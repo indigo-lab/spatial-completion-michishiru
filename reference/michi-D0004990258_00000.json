@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990258_00000",
+  "@type": "Clip",
+  "name": "広島の大神楽",
+  "description": "詳細: 広島県庄原市竹森地区に伝わる、三十三年に一度しか行われない大神楽。死者の魂を導くと言われる「猿田彦の舞」。亡き祖父から舞を授かった孫は、舞うことで祖父に別れを告げます。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/広島"
+    },
+    "住所: 庄原市東城町",
+    "都道府県: 広島県"
+  ]
+}

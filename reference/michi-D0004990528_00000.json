@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990528_00000",
+  "@type": "Clip",
+  "name": "富津　フンチ合戦",
+  "description": "詳細: 千葉県富津市。４月になると虫網を手にクモ探しをする人たちが現れます。探すのはフンチと呼ばれるクモ。メスを巡って争う習性を利用したフンチ合戦が、５月に開催されます。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/千葉"
+    },
+    "住所: 富津市新井",
+    "都道府県: 千葉県"
+  ]
+}

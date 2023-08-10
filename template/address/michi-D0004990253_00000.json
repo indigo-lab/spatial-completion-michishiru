@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "淡嶋神社の雛流し",
+  "description": "詳細: 和歌山市の淡嶋神社は、人形供養をしてくれる社として知られています。毎年３月３日に行われる雛流しの神事。小舟に積まれた人形が、海へ送り出されます。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

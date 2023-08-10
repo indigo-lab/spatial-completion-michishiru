@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500283_00000",
+  "@type": "Clip",
+  "name": "京指物",
+  "description": "詳細: 指物は木と木を巧みに組み合わせて作る工芸品です。京都で作られる京指物は、細工の細やかさと作品の簡潔な美しさが特徴です。茶の湯の道具として用いられることで、発展してきました。\\n\\n（この動画は、１９９１年に取材したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "都道府県: 京都府",
+    "住所: 京都市下京区"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "八甲田丸就航",
+  "description": "詳細: 映像は１９６４年（昭和３９）に撮影された青函連絡船　八甲田丸の就航の様子です。八甲田丸は１９８８年３月に青森発最終便として運行、その役割を終えました。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

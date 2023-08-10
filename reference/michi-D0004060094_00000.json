@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004060094_00000",
+  "@type": "Clip",
+  "name": "庶路川",
+  "description": "詳細: １２月、庶路川（しょろがわ）にはシシャモの大群が産卵のため上ってきます。シシャモがのぼれるのは、庶路川など流れがゆるやかな川だけです。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 白糠郡白糠町の庶路川下流域",
+    "都道府県: 北海道"
+  ]
+}

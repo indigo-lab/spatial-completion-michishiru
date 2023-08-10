@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220018_00000",
+  "@type": "Clip",
+  "name": "信貴山",
+  "description": "詳細: 奈良県にある朝護孫子寺（ちょうごそんしじ）。松永弾正久秀は信貴山（しぎさん）の城に籠もって織田信長と戦い、寺は焼きつくされました。王寺町の達磨寺には久秀の墓があります。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "都道府県: 奈良県",
+    "住所: 生駒郡平群町信貴山"
+  ]
+}

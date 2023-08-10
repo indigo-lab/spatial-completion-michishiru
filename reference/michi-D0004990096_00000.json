@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990096_00000",
+  "@type": "Clip",
+  "name": "紅型",
+  "description": "詳細: 紅型（びんがた）。沖縄の言葉で多彩な色という意味で、大胆な色使いは、多くの人々を魅了してきました。美しい染め織りの数々を、製作の様子とともに紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/沖縄"
+    },
+    "都道府県: 沖縄県",
+    "住所: 那覇市久茂地"
+  ]
+}

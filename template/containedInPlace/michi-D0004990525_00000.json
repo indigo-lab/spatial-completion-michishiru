@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "会津の五桜",
+  "description": "詳細: 福島県・会津には、会津五桜と呼ばれる桜の名木があります。杉の糸桜、虎の尾桜など、会津の春を彩る、美しい五桜を巡る旅です。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

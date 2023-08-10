@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990460_00000",
+  "@type": "Clip",
+  "name": "軍艦島",
+  "description": "詳細: 明治２０年から本格的に石炭が掘られた軍艦島。その品質は、日本一とうたわれました。最盛期、全国から集まった労働者は２０００人。日本の繁栄を支えた石炭の島、軍艦島を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長崎"
+    },
+    "住所: 長崎市高島町",
+    "都道府県: 長崎県"
+  ]
+}

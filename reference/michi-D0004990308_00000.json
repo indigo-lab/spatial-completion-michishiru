@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990308_00000",
+  "@type": "Clip",
+  "name": "芭蕉布",
+  "description": "詳細: 沖縄の芭蕉布。サラリとした風合いと素朴な色合いが魅力の伝統工芸です。芭蕉の茎から繊維をとりだし、布へ仕上げる工程や、芭蕉布に生涯をかけた女性の思いを紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/沖縄"
+    },
+    "都道府県: 沖縄県",
+    "住所: 国頭郡大宜味村"
+  ]
+}

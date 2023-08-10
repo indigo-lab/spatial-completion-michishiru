@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "阿蘇神社",
+  "description": "詳細: 二千年以上の歴史を持つという熊本の阿蘇神社。カルデラという巨大なくぼ地の中にあり、中央には火山がそびえます。年に一度、神官は火口を訪れて直接祈りを捧げます。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

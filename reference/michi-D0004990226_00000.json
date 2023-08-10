@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990226_00000",
+  "@type": "Clip",
+  "name": "蔵王の湯の花",
+  "description": "詳細: 蔵王温泉の名物である湯の花。いったいどのようにして作られるのでしょうか？昔ながらの方法で集め、作りあげるまでの様子を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "都道府県: 山形県",
+    "住所: 山形市蔵王温泉"
+  ]
+}

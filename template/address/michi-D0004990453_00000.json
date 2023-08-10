@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "祇園の男衆",
+  "description": "詳細: 日本最大の花街・京都、祇園。ここに、芸妓や舞妓の家に出入りすることを特別に許されている男衆（おとこし）と呼ばれる人がいます。芸舞妓の身の回りの世話を黒子として一手に引き受ける男衆の技と誇りを紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

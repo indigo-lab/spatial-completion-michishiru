@@ -1,0 +1,1 @@
+{"model":"gpt-3.5-turbo-0613","messages":[{"role":"system","content":"あなたは与えられた JSON-LD の中の \"?\" の部分に文字列を補完して JSON-LD を返すエージェントです"},{"role":"user","content":"{\"@context\":\"http://schema.org/\",\"@type\":\"Clip\",\"name\":\"青函トンネル　貫通式\",\"description\":\"詳細: 映像は１９８０年（昭和５５）に撮影された、青函トンネル本坑貫通の様子です。本坑は高さ７．８５ｍ、幅９．７ｍ、３階建のビルが入る大きさです。\",\"spatial\":\"?\"}"}],"temperature":0}

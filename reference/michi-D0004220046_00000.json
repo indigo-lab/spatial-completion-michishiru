@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220046_00000",
+  "@type": "Clip",
+  "name": "浦戸城跡",
+  "description": "詳細: 高知・桂浜の裏山にあった浦戸城。山内一豊の入城前は長曽我部氏が居を構えていました。一豊は浦戸城に入城し土佐一国の大名として領地平定に力を注ぎました。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/高知"
+    },
+    "都道府県: 高知県",
+    "住所: 高知市浦戸"
+  ]
+}

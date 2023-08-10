@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990306_00000",
+  "@type": "Clip",
+  "name": "瀬戸大橋",
+  "description": "詳細: 岡山県と香川県を結ぶ瀬戸大橋。大小５つの島をつなぐ６つの橋からなる、その構造美を堪能します。また、橋の保守・点検に従事する人々の丁寧な作業を紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岡山"
+    },
+    "住所: 倉敷市、坂出市",
+    "都道府県: 岡山県　香川県"
+  ]
+}

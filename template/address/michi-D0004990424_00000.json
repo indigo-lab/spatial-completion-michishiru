@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "阿蘇　野焼き",
+  "description": "詳細: 熊本県阿蘇。毎年春になると、阿蘇の草原の８割近くを焼きつくします。牛を飼うための草原を守る、日本最大級の野焼きです。焼かれた草は土に帰り、次の命を育みます。１０００年以上阿蘇に伝わる技を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

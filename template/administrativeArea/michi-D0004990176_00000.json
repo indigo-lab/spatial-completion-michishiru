@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "菜種油",
+  "description": "詳細: 青森県横浜町。菜種油の原料となる「菜種」の産地です。美しく広がる菜の花畑と、丁寧な製法で産み出される黄金の菜種油を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

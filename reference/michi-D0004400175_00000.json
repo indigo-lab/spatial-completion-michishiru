@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400175_00000",
+  "@type": "Clip",
+  "name": "新型青函連絡船「大雪丸」初の公式試運転",
+  "description": "詳細: 映像は１９６５年（昭和４０）に撮影された青函連絡船　大雪丸の公式試運転の様子です。この大雪丸には１９５４年におきた洞爺丸事故をうけ、安全を重視した様々な最新技術が採用されました。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 函館市若松町"
+  ]
+}

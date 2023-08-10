@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "あの街この街　路面電車",
+  "description": "詳細: 小さな車両がコトコト走る路面電車。高度成長期にその多くが姿を消し、全国に残る路面電車は、わずか１９路線。しかし、エコの観点などから、路面電車は今ふたたび注目されています。そのいくつかを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

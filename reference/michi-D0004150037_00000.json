@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004150037_00000",
+  "@type": "Clip",
+  "name": "十勝地方　氷の贈り物",
+  "description": "詳細: １２月になると十勝地方の校庭はスケートリンクに変わります。リンクを作るのはお父さんたち。デコボコを手作業で直す作業は、毎夜約１週間続きます。\\n\\n（この動画は、２００２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 十勝郡"
+  ]
+}

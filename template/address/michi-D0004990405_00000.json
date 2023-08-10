@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "合馬のたけのこ",
+  "description": "詳細: 春の訪れを告げる食材、たけのこ。合馬のたけのこは、えぐみが少なく、関西の料亭でも珍重されています。丁寧な竹林の手入れで育まれる、合馬のたけのこを紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

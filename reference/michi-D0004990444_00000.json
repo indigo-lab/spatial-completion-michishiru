@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990444_00000",
+  "@type": "Clip",
+  "name": "火の用心",
+  "description": "詳細: 日本有数の豪雪地帯、福島県会津地方。只見町では子どもが数えで６歳になると、ある大役を担います。書き初めで「火の用心」と書いて、火除けのお札にするという、冬の習わしです。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福島"
+    },
+    "住所: 南会津郡只見町",
+    "都道府県: 福島県"
+  ]
+}

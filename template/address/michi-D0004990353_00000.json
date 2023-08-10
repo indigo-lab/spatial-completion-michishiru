@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "レモンの島",
+  "description": "詳細: 愛媛県岩城島は日本有数のレモンの産地で、レモンの島とも言われています。秋から冬にかけて食べ頃を迎えるレモンの色は青。青いレモンは国産の代名詞にもなっています。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "蔵王連峰の樹氷",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。宮城県の蔵王連峰。冬、標高１，５５０メートルの御釜には深い雪が積もり、自然の造形・樹氷が姿を現します。",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

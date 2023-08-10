@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500559_00000",
+  "@type": "Clip",
+  "name": "富士五胡",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。本栖湖、西湖、河口湖、精進湖、山中湖。富士五湖の冬の表情を空からご紹介します。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山梨"
+    },
+    "住所: 南都留郡山中湖村平野",
+    "都道府県: 山梨県"
+  ]
+}

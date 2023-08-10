@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004150032_00000",
+  "@type": "Clip",
+  "name": "中禅寺湖",
+  "description": "詳細: 栃木県、中禅寺湖。６月上旬、湖畔に魚の餌となる羽虫が飛び回ります。その虫に似せた疑似餌を使い、釣り師が魚との駆け引きを楽しみます。新緑を映す湖に、糸の空を切る音が響きわたります。\\n\\n（この動画は、２００１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/栃木"
+    },
+    "都道府県: 栃木県",
+    "住所: 日光市"
+  ]
+}

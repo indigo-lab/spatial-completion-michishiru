@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "削り昆布",
+  "description": "詳細: 豪雪地帯の秋田県横手市。冬の貴重な収入源として始まった削り昆布作りが、今では町の特産品に成長しています。深い味わいと柔らかな口溶けをうむ“削り”。その職人技を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

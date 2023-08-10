@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990136_00000",
+  "@type": "Clip",
+  "name": "ブンタン",
+  "description": "詳細: 高知県特産のブンタン。２月に市場に出回り一足早く春の訪れを告げます。しかし収穫するのは実は１２月。出荷前にかける一手間が、味をよくする秘密です。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/高知"
+    },
+    "都道府県: 高知県",
+    "住所: 土佐市宮ノ内"
+  ]
+}

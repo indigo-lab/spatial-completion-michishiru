@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大谷石",
+  "description": "詳細: 栃木県大谷町。この地で採れる大谷石は、およそ１２００万年前の火山噴火で生まれた凝灰岩です。加工しやすく、耐熱性にも優れ、多様な輝きを放ちます。",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "佐賀牛",
+  "description": "詳細: 佐賀県のブランド牛、佐賀牛。黒毛和種で、霜降りの度合いなどが最高品質のものを佐賀牛と呼びます。佐賀平野の稲わらを与え、成長に応じて餌のやり方を変える酪農家を紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

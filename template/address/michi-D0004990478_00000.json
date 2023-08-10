@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "みちのくの仏さま",
+  "description": "詳細: 東北地方には、不思議な様式の仏像が多く残されています。削った跡がそのまま荒々しく残る姿には、日本古来の信仰の姿がかいま見えます。岩手と秋田に残る三体の像を巡ります。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

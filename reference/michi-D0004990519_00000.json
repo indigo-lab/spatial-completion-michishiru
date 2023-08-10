@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990519_00000",
+  "@type": "Clip",
+  "name": "鯖江のメガネ",
+  "description": "詳細: 福井県の鯖江といえば、世界的にも知られたメガネの町。農閑期の副業として始まり、いまや国内のメガネは９割以上がここで作られています。熟練の職人技を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福井"
+    },
+    "都道府県: 福井県",
+    "住所: 鯖江市新横江"
+  ]
+}

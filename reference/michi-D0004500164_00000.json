@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500164_00000",
+  "@type": "Clip",
+  "name": "久留米絣",
+  "description": "詳細: 久留米絣は福岡県久留米を中心に、筑後地方で発展した伝統的工芸品です。久留米絣の特徴は幾何学模様です。かっちりとしたデザインの中に微妙な擦れ具合が温かみを感じさせます。\\n\\n（この動画は、２００９年に放送したものです）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福岡"
+    },
+    "住所: 久留米市東合川",
+    "都道府県: 福岡県"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "房総の楊枝",
+  "description": "詳細: 千葉県君津市久留里地区では、細工を施した高級楊枝が作られています。もともと武士の内職として奨励されたのが始まりです。黒文字という香りの良い木から楊枝を作る技を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

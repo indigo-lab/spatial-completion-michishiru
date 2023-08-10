@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "栃尾の油揚げ",
+  "description": "詳細: 新潟県栃尾の名物といえば、分厚い油揚げ。お盆の時期、町の禅寺では盆参りに来る人々のために精進料理をふるまいます。そこでも活躍するのが油揚げ。栃尾の故郷の味を描きます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

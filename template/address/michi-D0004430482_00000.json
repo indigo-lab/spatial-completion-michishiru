@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "佐賀県江北町",
+  "description": "詳細: 江北町は佐賀県のほぼ真ん中にあります。平野が広がる江北町は、佐賀県の中でも稲作の盛んな地域です。弥生時代に栽培されていた古代米の生産などに取り組んでいます。直売所では新鮮な野菜とともに古代米も販売しています。\\n\\n（この動画は、２００３年に取材したものです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

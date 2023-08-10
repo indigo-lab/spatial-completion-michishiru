@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004180004_00000",
+  "@type": "Clip",
+  "name": "山本勘助供養塔／鎧堂観音",
+  "description": "詳細: 山梨県北杜市。八ヶ岳の南麓に広がる高原です。山本勘助をはじめ、武田晴信に仕えた足軽大将たちの多くが、このあたりに知行地を与えられたといいいます。\\n\\n（この動画は、２００７年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山梨"
+    },
+    "住所: 北杜市高根町",
+    "都道府県: 山梨県"
+  ]
+}

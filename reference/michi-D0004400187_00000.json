@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400187_00000",
+  "@type": "Clip",
+  "name": "函館市電",
+  "description": "詳細: 映像は１９７１年（昭和４６）に撮影された函館市電３００型のサヨナラ運転の様子です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 函館市深堀町",
+    "都道府県: 北海道"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990187_00000",
+  "@type": "Clip",
+  "name": "阿波おどり　有名連",
+  "description": "詳細: 夏の徳島と言えば、阿波おどり。そのメインステージが「演舞場」です。そこで繰り広げられる踊りのハイライト、「有名連」と呼ばれるグループの踊りをじっくりとご覧ください。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/徳島"
+    },
+    "住所: 徳島市藍場町",
+    "都道府県: 徳島県"
+  ]
+}

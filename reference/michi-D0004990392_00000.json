@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990392_00000",
+  "@type": "Clip",
+  "name": "刺し子",
+  "description": "詳細: 青森の伝統工芸、刺し子。厳しい冬を乗り越えるため、綿糸で布目をふさぐことで寒さをしのぎました。その結果生まれた、美しい幾何学模様。デザイン性の高さが注目されています。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/青森"
+    },
+    "都道府県: 青森県",
+    "住所: 青森市本町"
+  ]
+}

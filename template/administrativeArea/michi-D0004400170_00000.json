@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "津軽丸　貨車を積んで初航海",
+  "description": "詳細: 映像は１９６４年（昭和３９）に撮影された青函連絡船　津軽丸の初航海の様子です。",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500588_00000",
+  "@type": "Clip",
+  "name": "福岡　みあれ祭り",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。福岡、宗像大社の秋季大祭「みあれ祭り」。神職と神輿を乗せて数百隻の漁船が海を渡ります。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福岡"
+    },
+    "都道府県: 福岡県",
+    "住所: 宗像市大島"
+  ]
+}

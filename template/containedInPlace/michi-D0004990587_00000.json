@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ジャンボしいたけ",
+  "description": "詳細: 鳥取市岩坪地区。とびきり大きなしいたけを栽培しています。「山のあわび」とも言われ、肉厚で風味が良く、歯ごたえ充分。鳥取で開発された特別な品種「ジャンボしいたけ」を紹介します。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

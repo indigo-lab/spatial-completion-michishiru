@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "横浜の坂道",
+  "description": "詳細: 横浜・山手。高級住宅地として知られるここは、坂道の多い街です。山手の坂道を巡り、異国情緒あふれる横浜の多彩な表情を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "近江八幡　八幡堀",
+  "description": "詳細: 滋賀県近江八幡市。ここは秀吉の甥・秀次が城を築き、大いににぎわいました。秀次は琵琶湖の水運を利用するため城下町に運河を引き込み、商人や職人たちを安土から迎え入れました。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

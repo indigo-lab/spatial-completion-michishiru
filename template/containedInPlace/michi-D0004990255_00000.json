@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "松山城の罠",
+  "description": "詳細: 関ヶ原の戦いで功績をあげた加藤嘉明が築櫓した松山城。現存１２天守の一つで重要文化財にも指定されています。攻守の機能にも優れた松山城の魅力を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990048_00000",
+  "@type": "Clip",
+  "name": "ホタルイカ",
+  "description": "詳細: 富山湾でのホタルイカ漁の様子や、地元ならではのおいしい食べ方などを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/富山"
+    },
+    "都道府県: 富山県",
+    "住所: 滑川市高塚"
+  ]
+}

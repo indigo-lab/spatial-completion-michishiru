@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400190_00000",
+  "@type": "Clip",
+  "name": "鹿子舞（獅子舞）",
+  "description": "詳細: 映像は１９７５年（昭和５０）に撮影された、厚沢部町に伝わる伝統芸能・鹿子舞（獅子舞）の様子です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 檜山郡厚沢部町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500565_00000",
+  "@type": "Clip",
+  "name": "弘前公園の桜",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。東北の桜の名所・弘前公園。大型連休のころ、桜は満開を迎えます。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/青森"
+    },
+    "住所: 弘前市下白銀町",
+    "都道府県: 青森県"
+  ]
+}

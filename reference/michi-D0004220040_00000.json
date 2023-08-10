@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004220040_00000",
+  "@type": "Clip",
+  "name": "八剱社",
+  "description": "詳細: 丹羽郡大口町。山内一豊の盟友として、ともに戦国の世を生きた堀尾茂助吉晴は尾張の豪族の家に生まれました。屋敷跡には堀尾家の守り神の社が今も残っています。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/愛知"
+    },
+    "住所: 丹羽郡大口町",
+    "都道府県: 愛知県"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "黄瀬川八幡神社",
+  "description": "詳細: 黄瀬（きせ）川は静岡県の沼津市と清水町の境を流れています。黄瀬川八幡神社には源頼朝と義経の兄弟が、初めて対面したときに腰かけたと伝わる一対の石があります。\\n\\n（この動画は、２００５年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

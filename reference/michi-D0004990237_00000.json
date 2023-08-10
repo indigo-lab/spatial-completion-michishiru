@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990237_00000",
+  "@type": "Clip",
+  "name": "飛騨古川　三寺まいり",
+  "description": "詳細: 岐阜県飛騨市で２００年以上続く、三寺まいり。毎年１月１５日の夜におこなわれる冬の伝統行事です。無数のろうそくに照らし出される幻想的な風景をお届けします。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岐阜"
+    },
+    "住所: 飛騨市古川町",
+    "都道府県: 岐阜県"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "混雑する青函連絡船",
+  "description": "詳細: 映像は１９６１年（昭和３６）撮影の青函連絡船の様子です。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "落花生",
+  "description": "詳細: 明治時代から落花生が栽培されている八街市。昭和中頃には日本一の生産量を誇るようになり、全国にその名が知られるようになりました。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

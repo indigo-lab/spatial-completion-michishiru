@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990049_00000",
+  "@type": "Clip",
+  "name": "さぬきうどん",
+  "description": "詳細: 香川県の名物、さぬきうどん。美味しい食べ方や作り方など、本場のさぬきうどんを、たっぷりと紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/香川"
+    },
+    "都道府県: 香川県",
+    "住所: 高松市番町"
+  ]
+}

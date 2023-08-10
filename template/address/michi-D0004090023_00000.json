@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "佐多旧薬園",
+  "description": "詳細: 大隅半島にある薩摩藩直轄の植物園では、レイシを蜂蜜漬けにして篤姫に送ったと記録されています。嘉永６年、島津斉彬は大隅半島など領内各地を視察、特に沿岸警備に力を注ぎました。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

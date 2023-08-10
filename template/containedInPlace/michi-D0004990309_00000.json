@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "三社祭",
+  "description": "詳細: ５月、浅草が一年で最も熱くなる浅草神社の例大祭、三社祭が行われます。浅草にゆかりの深い三人の神様、“三社さま”のお祭りです。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

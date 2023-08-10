@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990241_00000",
+  "@type": "Clip",
+  "name": "氷川丸",
+  "description": "詳細: 昭和５年、太平洋航路就航のために横浜で作られた豪華客船「氷川丸」。激動の昭和を生きてきた豪華客船の魅力とエピソードを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/神奈川"
+    },
+    "住所: 横浜市中区",
+    "都道府県: 神奈川県"
+  ]
+}

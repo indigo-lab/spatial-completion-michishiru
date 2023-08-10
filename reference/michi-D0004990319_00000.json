@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990319_00000",
+  "@type": "Clip",
+  "name": "畑わさび",
+  "description": "詳細: 岩手県岩泉町の特産品、畑わさび。湿度が高い山林が畑わさびの栽培に向いており、生産量日本一を誇ります。かつて林業で栄えた岩泉町。林業で培った経験が生かされています。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岩手"
+    },
+    "住所: 下閉伊郡岩泉町",
+    "都道府県: 岩手県"
+  ]
+}

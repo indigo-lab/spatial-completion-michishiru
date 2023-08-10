@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "阿波おどり　有名連",
+  "description": "詳細: 夏の徳島と言えば、阿波おどり。そのメインステージが「演舞場」です。そこで繰り広げられる踊りのハイライト、「有名連」と呼ばれるグループの踊りをじっくりとご覧ください。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

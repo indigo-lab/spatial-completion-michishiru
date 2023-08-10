@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "オオカミ信仰",
+  "description": "詳細: かつては本州、四国、九州の山に生息していたニホンオオカミ。農作物を荒らす鹿や猪を食すオオカミを神使とし信仰する地域があります。そのうちの一つ、秩父の三峯神社を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

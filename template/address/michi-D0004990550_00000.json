@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "鳴門の鯛",
+  "description": "詳細: 瀬戸内海と太平洋を結ぶ、鳴門海峡。猛スピードの潮が海底の複雑な地形にぶつかることで、竜巻のような渦が生まれます。荒波にもまれ、身の引き締まった鳴門の鯛を狙う漁師を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

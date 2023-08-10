@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "浅草寺",
+  "description": "詳細: 年間３０００万人が訪れる浅草寺。徳川家康が幕府の祈願所と定めたことで、天下にその名が知れ渡りました。喧騒と静けさが同居する東京・浅草寺の魅力を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

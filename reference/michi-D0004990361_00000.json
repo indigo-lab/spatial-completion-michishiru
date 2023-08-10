@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990361_00000",
+  "@type": "Clip",
+  "name": "茨城のメロン",
+  "description": "詳細: 茨城県は、メロンの生産量が日本一。きめ細かい編み目が特徴のアールスメロンは、夏の贈答品としても喜ばれています。美味しくするための努力や工夫を紹介します。\\n\\n（この動画は、２０１３年に放送したものです）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/茨城"
+    },
+    "都道府県: 茨城県",
+    "住所: 鉾田市"
+  ]
+}

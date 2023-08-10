@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "塗り下駄",
+  "description": "詳細: 静岡県の伝統工芸・塗り下駄。木の下駄に漆を塗り重ね、装飾を施した下駄はまさに芸術品。根気のいる作業の様子と、華やかな完成品の魅力をお伝えします。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

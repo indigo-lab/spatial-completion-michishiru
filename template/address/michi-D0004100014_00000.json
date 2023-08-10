@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "龍澤寺",
+  "description": "詳細: 天正６年、１５７４年におきた「お館の乱」、景勝軍は国境を破られ、次々と城を失いましたが、坂戸城にたてこもり必死に抵抗。やがて冬が訪れ、北条軍は撤退を余儀なくされたのでした。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

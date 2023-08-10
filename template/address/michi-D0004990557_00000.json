@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大阪寿司",
+  "description": "詳細: 水の都・大阪。この町ならではの郷土料理・大阪寿司。煮物・焼き物・酢の物など、様々な調理法が詰まった、二寸六分の懐石とも呼ばれる、大阪のソウルフードです。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

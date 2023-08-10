@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990419_00000",
+  "@type": "Clip",
+  "name": "當麻寺",
+  "description": "詳細: 奈良県葛城市にある當麻寺。飛鳥時代創建という古刹で、壮麗な極楽浄土の世界を描いた當麻曼荼羅が秘仏として守られています。毎年５月１４日には、千年続くという儀式が執り行われます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "都道府県: 奈良県",
+    "住所: 葛城市當麻"
+  ]
+}

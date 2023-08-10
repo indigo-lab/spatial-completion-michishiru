@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "名水の山　大山",
+  "description": "詳細: 中国地方の最高峰、大山。ふもとでは至る所から水が湧き、ミネラルウオーターの産地となっています。きれいな水を利用して、庭でわさびを栽培したり、自家製豆腐も作られます。\\n\\n（この動画は、２０１５年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

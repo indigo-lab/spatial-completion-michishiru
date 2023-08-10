@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500551_00000",
+  "@type": "Clip",
+  "name": "高層ビルと富士山",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。冬場、東京都心の高層ビル街から富士山を見ることができます。都内に「富士見」の名を冠された地名が残る由縁です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/東京"
+    },
+    "住所: 墨田区押上",
+    "都道府県: 東京都"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "白神山地",
+  "description": "詳細: 青森県と秋田県にまたがる白神山地。その中心部は世界自然遺産に登録され、世界有数の規模のブナの原生林が広がっています。動植物の命の営みを、美しい映像で描きます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990127_00000",
+  "@type": "Clip",
+  "name": "勝常寺",
+  "description": "詳細: 福島県磐梯山の西にある、勝常寺。平安時代初期に制作されたとされる仏像が、十二体安置されています。国宝に指定された仏像の数々と、そこに込められた思いを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福島"
+    },
+    "都道府県: 福島県",
+    "住所: 河沼郡湯川村"
+  ]
+}

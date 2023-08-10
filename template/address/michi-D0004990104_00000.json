@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "奈良の墨",
+  "description": "詳細: 古都奈良。１３００年にわたってこの街に伝わる特産品「墨」。奈良では伝統的な墨作りが、今なお手作業でおこなわれています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

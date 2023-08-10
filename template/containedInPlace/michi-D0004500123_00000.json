@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "塩見岳",
+  "description": "詳細: 静岡、長野県境にあり、南アルプスのほぼ中央にあるる塩見岳。多くの登山者でにぎわう人気の山です。山頂からは、正面に富士山を望むことができます。\\n\\n（この動画は、２００７年に放送したものです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

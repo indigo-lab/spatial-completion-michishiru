@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400179_00000",
+  "@type": "Clip",
+  "name": "瀬棚線に初の急行",
+  "description": "詳細: 映像は１９６６年（昭和４１）に撮影された急行「せたな」運転開始日の様子です。急行「せたな」は函館駅～瀬棚駅間を函館本線・瀬棚線経由で結びました。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 久遠郡せたな町"
+  ]
+}

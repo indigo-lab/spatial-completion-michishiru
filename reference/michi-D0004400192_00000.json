@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400192_00000",
+  "@type": "Clip",
+  "name": "青函トンネル　貫通式",
+  "description": "詳細: 映像は１９８０年（昭和５５）に撮影された、青函トンネル本坑貫通の様子です。本坑は高さ７．８５ｍ、幅９．７ｍ、３階建のビルが入る大きさです。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 松前郡福島町"
+  ]
+}

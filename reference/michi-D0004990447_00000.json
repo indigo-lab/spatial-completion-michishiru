@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990447_00000",
+  "@type": "Clip",
+  "name": "奈良漆器",
+  "description": "詳細: 奈良の伝統工芸、奈良漆器。寺や神社で用いられる手の込んだ漆器が、いまも丁寧に作られています。春日大社に奉納する、神様の調度品を作る職人の技と思いを紹介します。\\n\\n（この動画は、２０１４年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "都道府県: 奈良県",
+    "住所: 奈良市春日野町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "村歌舞伎",
+  "description": "詳細: 福島県檜枝岐村(ひのえまたむら)。尾瀬の東の玄関口です。毎年５月１２日、江戸時代から受け継がれてきた村歌舞伎を、燧ヶ岳の神へ奉納します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

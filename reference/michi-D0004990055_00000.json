@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990055_00000",
+  "@type": "Clip",
+  "name": "落花生",
+  "description": "詳細: 明治時代から落花生が栽培されている八街市。昭和中頃には日本一の生産量を誇るようになり、全国にその名が知られるようになりました。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/千葉"
+    },
+    "住所: 八街市八街",
+    "都道府県: 千葉県"
+  ]
+}

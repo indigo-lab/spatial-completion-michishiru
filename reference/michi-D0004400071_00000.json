@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400071_00000",
+  "@type": "Clip",
+  "name": "旭川　民衆駅開業",
+  "description": "詳細: ＮＨＫが取材してきた膨大なニュース映像の中から、昭和３０年代以降の旭川の主な動きを紹介。昭和３５年（１９６０年）旭川の民衆駅開業。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 旭川市宮下通",
+    "都道府県: 北海道"
+  ]
+}

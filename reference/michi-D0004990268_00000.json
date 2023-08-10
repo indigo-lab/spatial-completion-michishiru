@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990268_00000",
+  "@type": "Clip",
+  "name": "徳島・祖谷　平家伝説",
+  "description": "詳細: 四国山地の奥深く、徳島県祖谷に「平家の落人」が逃れて来たという集落があります。平家の赤旗を家宝と守る家、名前を伏せた一族の墓…。平家伝説をたどる旅です。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/徳島"
+    },
+    "都道府県: 徳島県",
+    "住所: 三好市東祖谷阿佐"
+  ]
+}

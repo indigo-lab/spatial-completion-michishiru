@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990354_00000",
+  "@type": "Clip",
+  "name": "秋さば",
+  "description": "詳細: 日本有数の漁業の町、青森県八戸市。８月から１１月は、八戸名物・秋サバが水揚げされます。産卵のために南下を始めるサバを、巻き網漁で一気にすくいとります。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/青森"
+    },
+    "住所: 八戸市白銀町",
+    "都道府県: 青森県"
+  ]
+}

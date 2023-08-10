@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990390_00000",
+  "@type": "Clip",
+  "name": "曲げわっぱ",
+  "description": "詳細: 秋田県の伝統工芸品、曲げわっぱ。天然の秋田杉で作った弁当箱で、木目を生かし、手作りで仕上げられます。通気性の良さとほのかな木の香りが、ごはんの味をひきたてます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/秋田"
+    },
+    "住所: 大館市馬喰町",
+    "都道府県: 秋田県"
+  ]
+}

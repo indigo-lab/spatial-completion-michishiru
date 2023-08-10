@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "夏の風物詩　山形花笠まつり",
+  "description": "詳細: 毎年８月５日から７日の３日間に渡り開催される山形花笠まつり。艶やかな衣裳と紅花をあしらった花笠を手にした踊り手たちが、山形市内のメインストリートを１キロに渡って踊り歩きます。\\n\\n（この動画は、２０１３年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

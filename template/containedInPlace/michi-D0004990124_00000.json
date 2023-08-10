@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "遠野のカッパ",
+  "description": "詳細: 「遠野物語」で知られる、岩手県遠野市。カッパやザシキワラシなど、不思議な者たちが登場する民話が語り継がれてきました。今もカッパが棲んでいると言われるカッパ淵を訪ねます。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

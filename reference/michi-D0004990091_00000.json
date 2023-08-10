@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990091_00000",
+  "@type": "Clip",
+  "name": "奥入瀬渓流",
+  "description": "詳細: 青森県・十和田湖から始まる奥入瀬渓流。奥に入るほど瀬が多くなることからこう名付けられたと言われています。渓流沿いに繰り広げられる美しい風景に、森の豊かな生命力を感じます。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/青森"
+    },
+    "都道府県: 青森県",
+    "住所: 十和田市奥瀬"
+  ]
+}

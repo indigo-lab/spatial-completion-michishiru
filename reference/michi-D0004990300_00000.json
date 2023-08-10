@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990300_00000",
+  "@type": "Clip",
+  "name": "草津温泉　湯治",
+  "description": "詳細: 日本有数の温泉地、群馬県草津温泉。高温で酸性が強い湯は、様々な効能を持つと信じられ、年間２７０万もの観光客が訪れます。長期滞在者のための湯治宿を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/群馬"
+    },
+    "住所: 吾妻郡草津町",
+    "都道府県: 群馬県"
+  ]
+}

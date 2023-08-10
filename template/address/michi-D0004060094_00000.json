@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "庶路川",
+  "description": "詳細: １２月、庶路川（しょろがわ）にはシシャモの大群が産卵のため上ってきます。シシャモがのぼれるのは、庶路川など流れがゆるやかな川だけです。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

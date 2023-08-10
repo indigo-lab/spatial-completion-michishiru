@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "尾瀬　湿原の宅配便",
+  "description": "詳細: 群馬、新潟、福島の境に広がる本州最大の湿原・尾瀬ヶ原。尾瀬ヶ原の小屋へ山のような荷物を届ける歩荷(ぼっか)と呼ばれる人たちの働く姿を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

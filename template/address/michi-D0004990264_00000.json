@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "紅花",
+  "description": "詳細: 山形県最上地方は、江戸時代から続く紅花の名産地。７月の収穫期、花をひとつひとつ手作業で摘んでいきます。黄色い花から紅を引き出す、日本古来の知恵と美しい色を楽しみます。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

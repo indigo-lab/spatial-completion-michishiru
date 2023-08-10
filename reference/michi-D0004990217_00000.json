@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990217_00000",
+  "@type": "Clip",
+  "name": "江戸前の漁",
+  "description": "詳細: スズキや穴子の料理をふるまう屋形船が、桜満開の隅田川を行きかいます。東京湾で三代続く漁師の親子が力を合わせて守る江戸前の味と、江戸時代から続く伝統の漁などを紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/東京"
+    },
+    "住所: 隅田川、東京湾",
+    "都道府県: 東京都"
+  ]
+}

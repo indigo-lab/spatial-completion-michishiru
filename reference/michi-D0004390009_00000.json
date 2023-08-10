@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004390009_00000",
+  "@type": "Clip",
+  "name": "大正時代の東大寺",
+  "description": "詳細: 「青い目の見た大正時代の日本」は、１９１７年～１８年（大正６～７年）に撮影された日本各地の記録映像で、米国のスミソニアン博物館とＮＨＫが保管しています。この映像には、東大寺の南大門と鐘楼が記録されています。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "都道府県: 奈良県",
+    "住所: 奈良市雑司町"
+  ]
+}

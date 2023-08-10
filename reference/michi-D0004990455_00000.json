@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990455_00000",
+  "@type": "Clip",
+  "name": "賀茂なす",
+  "description": "詳細: 京都市北部・上賀茂地区で作られる伝統の京野菜、賀茂なす。旬は初夏です。江戸時代から御所への貢ぎ物とされてきました。おいしさの秘密は鴨川の水。川の恵みが詰まっています。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "住所: 京都市左京区",
+    "都道府県: 京都府"
+  ]
+}

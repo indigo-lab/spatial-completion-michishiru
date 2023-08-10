@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "加茂の町並み",
+  "description": "詳細: 新潟県のほぼ中央に位置する加茂。旧三国街道中通りは軒を連ねた商家の佇まいに、門前町の賑わいが忍ばれます。\\n\\n（この動画は、１９９９年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

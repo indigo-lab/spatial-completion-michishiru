@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990420_00000",
+  "@type": "Clip",
+  "name": "沖縄　中身汁",
+  "description": "詳細: 沖縄本島北部、名護市。旧盆の日、親戚一同が集まり、ご先祖さまとともに過ごしながらいただく料理があります。遠い祖先から伝わる御馳走を紹介します。\\n\\n（この動画は、２０１０年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/沖縄"
+    },
+    "都道府県: 沖縄県",
+    "住所: 名護市"
+  ]
+}

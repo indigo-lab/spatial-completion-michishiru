@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大宮　盆栽天国",
+  "description": "詳細: 埼玉県にある通称「大宮盆栽村」。江戸時代から盆栽づくりの技と心を受け継ぐ町です。古い盆栽に躍動感を与えようと、大胆に改作された名品「うず潮」は盆栽の醍醐味を味わえる作品です。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

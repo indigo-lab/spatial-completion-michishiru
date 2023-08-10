@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400186_00000",
+  "@type": "Clip",
+  "name": "北海道鉄道開通９０周年　大沼号",
+  "description": "詳細: 映像は１９７０年（昭和４５）に撮影された、北海道鉄道開通９０周年を記念して運行された大沼号の様子です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "都道府県: 北海道",
+    "住所: 亀田郡七飯町"
+  ]
+}

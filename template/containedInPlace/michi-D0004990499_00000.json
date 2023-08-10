@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "シラウオ",
+  "description": "詳細: 青森県の小河原湖の別名は、「宝沼」。シラウオの漁獲量は日本一を誇ります。小さく傷つきやすいため、漁に使う網にも工夫が。大切な恵みを守りながらの漁の様子を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

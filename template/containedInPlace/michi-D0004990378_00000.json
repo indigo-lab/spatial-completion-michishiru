@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "談山神社の秋",
+  "description": "詳細: 奈良県桜井市にある談山神社。藤原鎌足が祭神としてまつられ、春と秋には蹴まりが奉納されます。境内にある、およそ３０００本のもみじが秋を彩ります。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

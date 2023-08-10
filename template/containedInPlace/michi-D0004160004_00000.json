@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "上賀茂神社のゴルフ場",
+  "description": "詳細: 昭和２３年、ゴルフ場の経営を始めた京都・上賀茂神社。当時は裏山８万坪がゴルフ場でした。\\n\\n（この動画は、１９４８年９月の日本ニュースです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

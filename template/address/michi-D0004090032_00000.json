@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "桜田門",
+  "description": "詳細: アメリカと条約を結び開港を行った井伊直弼は、安政７年３月３日、上屋敷から江戸城に向かう道中の、桜田門外で暗殺されました。直弼は井伊家の菩提寺である世田谷・豪徳寺に眠っています。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

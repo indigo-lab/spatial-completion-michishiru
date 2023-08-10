@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990513_00000",
+  "@type": "Clip",
+  "name": "川俣シルク",
+  "description": "詳細: 福島県川俣町は絹織物の里。三百年以上の伝統があり、川俣シルクとして知られています。透けるように薄く軽やかで、羽衣のような絹。機械任せではなく職人の技に支えられています。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福島"
+    },
+    "住所: 伊達郡川俣町",
+    "都道府県: 福島県"
+  ]
+}

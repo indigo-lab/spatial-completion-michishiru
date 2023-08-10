@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990178_00000",
+  "@type": "Clip",
+  "name": "高千穂峡",
+  "description": "詳細: 日本神話とのゆかりが深い宮崎県高千穂。ここでは、自然が作り出したダイナミックで幻想的な景観を楽しむことができます。７キロに渡って続く柱状節理や無数の滝などを巡ります。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/宮崎"
+    },
+    "都道府県: 宮崎県",
+    "住所: 西臼杵郡高千穂町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "高岡城",
+  "description": "詳細: 前田利家の長男・利勝、後の利長が開いた町・高岡。慶長十四年（１６０９年）、利長は城を築きました。利長はまた、城下に鋳物職人を集め鍋や釜を大量に作らせました。以後、高岡は鋳物の町としても栄えました。\\n\\n（この動画は、２００２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500597_00000",
+  "@type": "Clip",
+  "name": "清水寺の紅葉",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。京都・東山の清水寺。秋、約１０００本のカエデが境内を紅く染めます。この時期は、朝の開門と同時に大勢の観光客が訪れます。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "都道府県: 京都府",
+    "住所: 京都市東山区清水"
+  ]
+}

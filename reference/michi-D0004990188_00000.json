@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990188_00000",
+  "@type": "Clip",
+  "name": "阿波おどり見物",
+  "description": "詳細: 毎年、徳島県内外から訪れる観光客で大いに賑わう阿波おどり。知る人ぞ知る観光スポットや、初心者でも阿波おどりを楽しむためのコツ、「通」の楽しみ方などを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/徳島"
+    },
+    "都道府県: 徳島県",
+    "住所: 徳島市新町橋"
+  ]
+}

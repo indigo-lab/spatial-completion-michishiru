@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990570_00000",
+  "@type": "Clip",
+  "name": "植木の町　安行",
+  "description": "詳細: 埼玉県川口市安行、日本有数の植木の町です。江戸時代から庭木を育てる職人の技が磨かれてきました。長年慈しみ育ててきた植木は、職人の丁寧な作業によって嫁ぎ先へ運ばれます。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/埼玉"
+    },
+    "都道府県: 埼玉県",
+    "住所: 川口市安行領家"
+  ]
+}

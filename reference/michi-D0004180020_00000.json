@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004180020_00000",
+  "@type": "Clip",
+  "name": "葛尾城／坂城神社",
+  "description": "詳細: 険しい山々に囲まれた北信濃一帯を治めた村上義清は、晴信を二度、撃ち破りました。信濃における最大のライバルとして勘助、晴信の前に立ちはだかりました。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長野"
+    },
+    "都道府県: 長野県",
+    "住所: 埴科郡坂城町"
+  ]
+}

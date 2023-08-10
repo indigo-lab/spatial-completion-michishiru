@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "下仁田のこんにゃく",
+  "description": "詳細: こんにゃくの里として知られる、群馬県下仁田町。丹精こめて育てるこんにゃく栽培の様子と、生産高日本一の製粉の過程を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

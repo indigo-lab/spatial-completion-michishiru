@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500549_00000",
+  "@type": "Clip",
+  "name": "富士山と日の出",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。富士山ごしにのぞむ日の出。午前7時、雲間から太陽が現れます。ご来光を拝みに大勢の登山客が富士山に登ります。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/静岡"
+    },
+    "住所: 富士宮市粟倉",
+    "都道府県: 静岡県"
+  ]
+}

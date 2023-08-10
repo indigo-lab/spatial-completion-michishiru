@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "鎌倉　武士の文化が残る町",
+  "description": "詳細: 相模湾に面する日本有数の観光地、鎌倉。源頼朝によって鎌倉幕府が築かれ、貴族の文化とは異なる武士ならではの文化が発展しました。京都とは一味違う、日本の伝統文化を感じることが出来る町です。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

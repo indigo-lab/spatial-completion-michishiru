@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "横手のかまくら",
+  "description": "詳細: 秋田県横手市。日本有数の豪雪地帯として知られています。毎年小正月になると、百以上のかまくらが町を彩ります。冬の風物詩、横手の雪まつりの様子を紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

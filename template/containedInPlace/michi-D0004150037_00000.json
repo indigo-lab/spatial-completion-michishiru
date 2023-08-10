@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "十勝地方　氷の贈り物",
+  "description": "詳細: １２月になると十勝地方の校庭はスケートリンクに変わります。リンクを作るのはお父さんたち。デコボコを手作業で直す作業は、毎夜約１週間続きます。\\n\\n（この動画は、２００２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

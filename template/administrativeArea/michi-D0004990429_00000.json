@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "静岡　伝説の花火",
+  "description": "詳細: 江戸時代、火薬の扱いが許された三河の周辺は、いまも花火作りが盛んです。静岡県湖西市では、伝説の花火「マジック牡丹」が生み出されました。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

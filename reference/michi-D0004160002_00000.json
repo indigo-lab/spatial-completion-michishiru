@@ -1,0 +1,13 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004160002_00000",
+  "@type": "Clip",
+  "name": "ギオン祭　復活",
+  "description": "詳細: 昭和２２年９月１７日、５年ぶりに京都、八坂神社の祇園祭りが復活しました。町の電線を切って、お囃子（はやし）もにぎやかに、山鉾（やまほこ）が引き回されました。\\n\\n（この動画は、１９４７年７月の日本ニュースです）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/京都"
+    },
+    "都道府県: 京都府"
+  ]
+}

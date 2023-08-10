@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990563_00000",
+  "@type": "Clip",
+  "name": "バイトウ",
+  "description": "詳細: 冬は雪に覆われる、新潟県十日町市。小正月になると、「バイトウ」と呼ばれるワラ小屋が集落総出で建てられます。五穀豊穣を祈願する大切な行事で、最後は火が放たれます。\\n\\n（この動画は、２０１５年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/新潟"
+    },
+    "都道府県: 新潟県",
+    "住所: 十日町市大白倉寅"
+  ]
+}

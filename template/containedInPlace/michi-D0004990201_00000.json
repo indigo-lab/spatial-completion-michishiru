@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "勝沼のぶどう",
+  "description": "詳細: 山梨県甲州市勝沼町。日本有数のぶどうの産地です。実りの秋、ぶどう栽培発祥の地といわれる大善寺では、収穫に感謝する護摩炊きが行われます。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

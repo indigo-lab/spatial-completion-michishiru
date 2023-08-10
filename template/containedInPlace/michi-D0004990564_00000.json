@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "青森のあんこう",
+  "description": "詳細: 津軽海峡に面した、青森県風間浦村。全国有数のあんこうの産地で、１２月から３月頃は特に美味しいあんこうが釣れるといいます。漁法に、そしてさばき方に独特の特徴があります。\\n\\n（この動画は、２０１５年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

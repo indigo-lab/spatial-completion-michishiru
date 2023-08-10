@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "諏訪大社／上原城跡／龍光山　観音院",
+  "description": "詳細: 由布姫の故郷、 諏訪。諏訪湖を取り囲むように諏訪大社の上社と下社があります。諏訪大社で代々祭祀を司っていた諏訪家。その総領（そうりょう）が由布姫の父 諏訪頼重でした。\\n\\n（この動画は、２００７年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

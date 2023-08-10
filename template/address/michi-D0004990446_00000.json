@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "越前ガニ",
+  "description": "詳細: 冬のごちそう、越前ガニ。福井県の港であがるオスのズワイガニのことで、身は淡泊で甘く、味噌は濃厚です。地元のおすすめは、シンプルにゆでて食べること。ゆで方で雲泥の差が出ます。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990314_00000",
+  "@type": "Clip",
+  "name": "天城で育まれた伝統工芸",
+  "description": "詳細: 伊豆半島の中央にそびえる天城の山々。古くから、良質な木材の宝庫として知られています。美しい木目を生かした伝統工芸の作品の数々を紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/静岡"
+    },
+    "住所: 下田市大賀茂",
+    "都道府県: 静岡県"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "町田　小島鹿之助の生家",
+  "description": "詳細: 小島鹿之助は近藤勇に剣術を習い、勇は鹿之助に学問を学び、二人は義兄弟の契りまで結んだ仲でした。小島家に伝わる勇の稽古着の背中には、勇の妻、つねが施した魔除けの「どくろ」が刺繍してありました。\\n\\n（この動画は、２００４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

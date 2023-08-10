@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "金沢の仏壇",
+  "description": "詳細: 加賀百万石で知られる石川県金沢。市民の７割が浄土真宗の門徒と言われています。この町ならではの伝統工芸が仏壇です。４００年以上の歴史があり、きらびやかな装飾が施されています。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

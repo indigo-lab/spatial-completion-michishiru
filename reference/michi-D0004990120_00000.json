@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990120_00000",
+  "@type": "Clip",
+  "name": "蔵王の樹氷",
+  "description": "詳細: 山形と宮城にまたがる蔵王連峰。厳冬期には、無数の樹氷が屹立する圧巻の光景が広がります。深夜、樹氷が誕生する瞬間とは・・・。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "都道府県: 山形県　宮城県",
+    "住所: 山形市蔵王温泉"
+  ]
+}

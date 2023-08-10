@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ゆず",
+  "description": "詳細: 全国一の生産量を誇る、高知のゆず。県内有数の産地・物部町は、１１月が収穫の最盛期です。この地域は山深い地で酢や塩は貴重品だったため、家ごとにゆずを植えて料理に活用してきました。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

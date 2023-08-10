@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "三渓園",
+  "description": "詳細: 横浜市本牧にある広大な日本庭園、三渓園。全国の由緒ある建築物が移築されています。豊臣秀吉ゆかりのお堂、徳川家光ゆかりの楼閣建築など、三渓園の名建築を巡る旅です。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

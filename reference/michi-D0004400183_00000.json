@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400183_00000",
+  "@type": "Clip",
+  "name": "ハリストス教会に２４年ぶりに鐘",
+  "description": "詳細: 映像は１９６８年（昭和４３）に撮影されたハリストス教会に鐘が寄贈される様子です。金属供出で失われた函館ハリストス教会の鐘。戦後、聖堂の鐘が無いことを知ったギリシャ人が大鐘を教会に寄贈しました。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 函館市元町",
+    "都道府県: 北海道"
+  ]
+}

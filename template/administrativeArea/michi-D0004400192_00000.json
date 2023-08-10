@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "青函トンネル　貫通式",
+  "description": "詳細: 映像は１９８０年（昭和５５）に撮影された、青函トンネル本坑貫通の様子です。本坑は高さ７．８５ｍ、幅９．７ｍ、３階建のビルが入る大きさです。",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

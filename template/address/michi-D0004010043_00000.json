@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "甘木鉄道",
+  "description": "詳細: 佐賀県基山町の基山駅から福岡県朝倉市の甘木駅を結ぶ第３セクター・甘木鉄道が運営する鉄道路線です。基山駅で鹿児島本線に接続します。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

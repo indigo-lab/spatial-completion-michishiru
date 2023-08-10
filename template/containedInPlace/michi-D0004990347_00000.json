@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "唐津くんち　曳山",
+  "description": "詳細: １１月２日から３日間開かれる「唐津くんち」。見所は、ヤマと呼ばれる巨大な山車が城下町を練り歩く、曳山巡行。華やかなお祭りを、１４台のヤマとともに、ご紹介します。\\n\\n（この動画は、２０１２年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

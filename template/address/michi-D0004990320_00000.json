@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ホームスパン",
+  "description": "詳細: 岩手の伝統工芸ホームスパン。寒さの厳しい岩手に羊毛の織物が伝わったのは、明治のことでした。イギリス人宣教師がもたらした技術は岩手に根付き、地域の伝統工芸にまで成長しました。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

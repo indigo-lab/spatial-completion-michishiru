@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "紅型",
+  "description": "詳細: 紅型（びんがた）。沖縄の言葉で多彩な色という意味で、大胆な色使いは、多くの人々を魅了してきました。美しい染め織りの数々を、製作の様子とともに紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

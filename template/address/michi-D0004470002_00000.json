@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "浦安魚市場　２",
+  "description": "詳細: 千葉県の北西部にある浦安市。戦後に埋め立てが始まるまでは、遠浅の海岸が続いていて、あさりや海苔の養殖が盛んに行われていました。浦安魚市場では、あさりやあさりを使った惣菜が売られています。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

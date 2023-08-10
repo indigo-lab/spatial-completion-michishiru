@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400159_00000",
+  "@type": "Clip",
+  "name": "混雑する青函連絡船",
+  "description": "詳細: 映像は１９６１年（昭和３６）撮影の青函連絡船の様子です。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 函館市若松町",
+    "都道府県: 北海道"
+  ]
+}

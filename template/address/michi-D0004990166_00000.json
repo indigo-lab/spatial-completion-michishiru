@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "東京ジャズタクシー",
+  "description": "詳細: タクシーで東京の夜景スポットを案内している運転手に密着。ジャズをＢＧＭに、夜の東京を巡るナイトクルーズへとご案内します。\\n\\n（この動画は、２０１１年に放送したものです。）　",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

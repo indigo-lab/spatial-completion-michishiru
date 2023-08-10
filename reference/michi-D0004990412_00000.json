@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990412_00000",
+  "@type": "Clip",
+  "name": "越前和紙",
+  "description": "詳細: 福井県越前市の谷あいに、手すき和紙の工房があります。なめらかで丈夫な越前和紙。紙漉きは昔から女性の仕事とされ、今も脈々と受け継がれています。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福井"
+    },
+    "都道府県: 福井県",
+    "住所: 越前市　五箇地区"
+  ]
+}

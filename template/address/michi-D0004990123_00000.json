@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "遠野の馬",
+  "description": "詳細: 昔から馬の産地として有名な岩手県。「南部馬」とよばれる馬は、長年、人間の相棒として仕事や生活を共にしてきました。しかし、その風景が見られる場所も今では少なくなっています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

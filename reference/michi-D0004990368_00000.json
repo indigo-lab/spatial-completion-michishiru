@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990368_00000",
+  "@type": "Clip",
+  "name": "吉野　修験の宿坊",
+  "description": "詳細: はるか古より、大峯奥駈修行のための宿坊を守り続ける家があります。代々修験者の世話を続ける一家のルーツとは。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/奈良"
+    },
+    "都道府県: 奈良県",
+    "住所: 吉野郡下北山村"
+  ]
+}

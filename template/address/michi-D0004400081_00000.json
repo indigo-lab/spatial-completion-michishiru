@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "旭山動物園開園",
+  "description": "詳細: ＮＨＫが取材してきた膨大なニュース映像の中から、昭和３０年代以降の旭川の主な動きを紹介。  昭和４２年（１９６７年）旭山動物園開園。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

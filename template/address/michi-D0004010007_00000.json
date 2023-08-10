@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ＪＲ花輪線",
+  "description": "詳細: 岩手県盛岡市にある好摩駅から秋田県の大館駅まで東北地方の内陸を横断するＪＲ東日本の鉄道路線です。「十和田八幡平四季彩ライン」の愛称で呼ばれています。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

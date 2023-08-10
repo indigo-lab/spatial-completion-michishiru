@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "福井",
+  "description": "詳細: 国政に大きな影響力を持った越前松平家１６代藩主・松平慶永は、進歩的な考えを持ち、勝海舟や坂本龍馬らの後ろ盾となりました。また、西洋の学問を取り入れた藩校・明道館を開き、多くの人材を育成しました。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

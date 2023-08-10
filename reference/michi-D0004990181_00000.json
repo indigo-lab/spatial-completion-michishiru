@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990181_00000",
+  "@type": "Clip",
+  "name": "青島神社と鵜戸神宮",
+  "description": "詳細: 宮崎屈指の景勝地、日南海岸は日本神話ゆかりの場所でもあります。神秘的な風景とともに伝説の場所をめぐります。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/宮崎"
+    },
+    "住所: 宮崎市青島、日南市宮浦",
+    "都道府県: 宮崎県"
+  ]
+}

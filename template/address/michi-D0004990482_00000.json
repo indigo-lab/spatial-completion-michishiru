@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "小豆島の棚田",
+  "description": "詳細: 瀬戸内海の小豆島。平地が少ないため、山の斜面に棚田を広げながら米を作ってきました。手間はかかるが、自慢の名水で育てた米はおいしいと評判です。棚田での米作りを紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

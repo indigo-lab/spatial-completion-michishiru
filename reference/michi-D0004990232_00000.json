@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990232_00000",
+  "@type": "Clip",
+  "name": "下仁田のこんにゃく",
+  "description": "詳細: こんにゃくの里として知られる、群馬県下仁田町。丹精こめて育てるこんにゃく栽培の様子と、生産高日本一の製粉の過程を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/群馬"
+    },
+    "都道府県: 群馬県",
+    "住所: 甘楽郡下仁田町"
+  ]
+}

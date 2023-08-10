@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大沼トンネル開通",
+  "description": "詳細: 映像は１９６４年（昭和３９）に撮影された大沼トンネル開通の様子です。",
+  "spatial": {
+    "@type": "Place",
+    "name": "?"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "絶景　富士山",
+  "description": "詳細: 富士山は標高３７7６メートル、「不二の高嶺」として知られる日本最高峰の名山です。古くから信仰登山の山とされ、葛飾北斎の「富嶽三十六景」で知られます。冬、冠雪の富士山は厳しくも雄大な姿をみせます。\\n\\n（この動画は、２００４年に放送したものです）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

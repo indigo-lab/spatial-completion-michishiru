@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "積丹半島の夏",
+  "description": "詳細: 北海道西部、日本海を臨む積丹半島。絶滅が心配されている鷹、ミサゴが現れます。豊富な食べ物と安全な巣がそろった積丹半島は、ミサゴにとって絶好の子育ての場所です。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

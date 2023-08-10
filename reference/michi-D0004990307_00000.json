@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990307_00000",
+  "@type": "Clip",
+  "name": "故郷の味　うどん",
+  "description": "詳細: うどんを愛する香川県民。岡山と香川を結ぶ連絡船が運航していたころは、故郷を後にするとき、戻ってきたときに必ずうどんを食したといいます。うどんへの深い愛着を描きます。\\n\\n（この動画は、２０１３年に放送されたものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/香川"
+    },
+    "都道府県: 香川県",
+    "住所: 高松市浜ノ町"
+  ]
+}

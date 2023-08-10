@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004290025_00000",
+  "@type": "Clip",
+  "name": "犬山の町並み",
+  "description": "詳細: 日本最古の平山城がそびえる愛知・犬山。国宝・犬山城は三重の天守閣を持つ美しい城です。犬山市は旧中山道が町を横切り、それに沿って古い家並みが残されています。\\n\\n（この動画は、１９９８年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/愛知"
+    },
+    "都道府県: 愛知県",
+    "住所: 犬山市犬山東古券"
+  ]
+}

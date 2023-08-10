@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400423_00000",
+  "@type": "Clip",
+  "name": "やまぐち色風景",
+  "description": "詳細: 真夏の空に湧き上がる雲。噴水から勢いよく噴きだす水。そうめん流し。鍾乳洞の水。朝もや。山口県の各地で見つけた、「夏の白い風景」を集めてみました。\\n\\n（この動画は、２０１７年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山口"
+    },
+    "都道府県: 山口県",
+    "住所: 美祢市於福町"
+  ]
+}

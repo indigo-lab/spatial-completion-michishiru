@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990175_00000",
+  "@type": "Clip",
+  "name": "小江戸　川越",
+  "description": "詳細: 江戸にもっとも近い城下町として栄えた、埼玉県川越市。蔵造りの家並み、手作りのあめ屋さんなどが残り、小江戸と呼ばれています。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/埼玉"
+    },
+    "住所: 川越市幸町",
+    "都道府県: 埼玉県"
+  ]
+}

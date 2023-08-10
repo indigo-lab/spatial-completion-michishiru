@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990150_00000",
+  "@type": "Clip",
+  "name": "宮島の暮らし",
+  "description": "詳細: 日本三景、安芸の宮島。太古から神の島とされたこの島の人々は、不思議なしきたりを守りながら暮らしています。島に伝わる習慣や神の使いであるシカとの付き合い方とは。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/広島"
+    },
+    "住所: 廿日市市宮島町",
+    "都道府県: 広島県"
+  ]
+}

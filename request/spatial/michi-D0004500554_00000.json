@@ -1,0 +1,1 @@
+{"model":"gpt-3.5-turbo-0613","messages":[{"role":"system","content":"あなたは与えられた JSON-LD の中の \"?\" の部分に文字列を補完して JSON-LD を返すエージェントです"},{"role":"user","content":"{\"@context\":\"http://schema.org/\",\"@type\":\"Clip\",\"name\":\"越後三山\",\"description\":\"詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。越後駒ヶ岳、八海山、中ノ岳からなる越後三山。厳冬期、山全体が深い雪に覆われます。\",\"spatial\":\"?\"}"}],"temperature":0}

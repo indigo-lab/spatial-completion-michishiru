@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990206_00000",
+  "@type": "Clip",
+  "name": "筑波の線香",
+  "description": "詳細: 茨城県にそびえる筑波山。麓では、筑波山の杉を使った線香作りが行われています。杉の葉を、水車で丁寧に粉にすることで生まれる、香り豊かな線香。筑波の特産品を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/茨城"
+    },
+    "住所: 石岡市小幡",
+    "都道府県: 茨城県"
+  ]
+}

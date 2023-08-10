@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990529_00000",
+  "@type": "Clip",
+  "name": "大瀬祭り",
+  "description": "詳細: 冨士のふもと、駿河湾の漁師にとって４月４日は大切な日です。海の守護神である大瀬神社に、海の安全と大漁祈願をします。準備は念入り、装いは奇抜。天下の奇祭を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/静岡"
+    },
+    "都道府県: 静岡県",
+    "住所: 沼津市西浦江梨"
+  ]
+}

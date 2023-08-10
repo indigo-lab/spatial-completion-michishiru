@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400188_00000",
+  "@type": "Clip",
+  "name": "２５万トンタンカー進水",
+  "description": "詳細: 映像は１９７２年（昭和４７）に撮影された、函館ドック（現・函館どつく）での２５万トンタンカーの進水の様子です。函館ドックでは１９７２年から１９７５年にかけて、２５万トンタンカーが計３隻建造されました。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 函館市弁天町",
+    "都道府県: 北海道"
+  ]
+}

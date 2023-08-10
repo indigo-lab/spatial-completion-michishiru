@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "法隆寺　仏像群",
+  "description": "詳細: 創建以来１４００年という悠久の時を経てきた法隆寺には、飛鳥時代に始まる数々の貴重な仏教美術が大切に守られています。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

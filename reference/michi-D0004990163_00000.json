@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990163_00000",
+  "@type": "Clip",
+  "name": "たたら製鉄",
+  "description": "詳細: 島根県奥出雲に伝わる、たたら製鉄。純度の高い鋼を得る、日本古来の伝統の技です。この地でとれる良質の砂鉄と木炭から強靭な鋼を得る技術は、今も受け継がれています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/島根"
+    },
+    "住所: 仁多郡奥出雲町",
+    "都道府県: 島根県"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "芦ノ牧温泉駅",
+  "description": "詳細: 芦ノ牧温泉（あしのまきおんせん）駅は、福島県内を走る会津鉄道会津線の駅で、山あいの渓谷にある温泉郷への最寄り駅です。駅舎は１９２７年、開業の時に建てられたもので、切り妻屋根に下見板張りの壁の小さな木造です。\\n\\n（この動画は、２００９年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

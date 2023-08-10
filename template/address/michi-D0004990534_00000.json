@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "門司　角打ち",
+  "description": "詳細: 関門海峡の港町、北九州市門司の朝。裏通りのあちこちで酒屋さんが店を開いています。店の中では早くも一杯。門司発祥ともいわれる酒屋での立ち飲み、角打ち（かくうち）を紹介します。\\n\\n（この動画は、２０１４年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

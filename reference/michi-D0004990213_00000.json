@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990213_00000",
+  "@type": "Clip",
+  "name": "こんぴらさん～五人百姓",
+  "description": "詳細: 四国・香川県にある、こんぴらさんこと金刀比羅宮。３００年以上に渡り、こんぴらさんの神事を支える「五人百姓」を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/香川"
+    },
+    "住所: 仲多度郡琴平町",
+    "都道府県: 香川県"
+  ]
+}

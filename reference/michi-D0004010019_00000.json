@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004010019_00000",
+  "@type": "Clip",
+  "name": "ＪＲ久留里線",
+  "description": "詳細: 千葉県の木更津駅と君津市の上総亀山駅を結ぶＪＲ東日本の鉄道路線です。かつて気動車王国と呼ばれた、房総半島に残る数少ない非電化路線でもあります。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/千葉"
+    },
+    "都道府県: 千葉県",
+    "住所: （上総亀山駅）君津市藤林"
+  ]
+}

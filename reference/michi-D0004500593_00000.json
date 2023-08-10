@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500593_00000",
+  "@type": "Clip",
+  "name": "砥峰高原",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。兵庫県の砥峰高原は、日本有数のススキの群生地です。ススキの季節は、映画やドラマの撮影などにも使われます。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/兵庫"
+    },
+    "都道府県: 兵庫県",
+    "住所: 神崎郡神河町川上"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "長崎　赤島",
+  "description": "詳細: 周囲６キロの小さな島、赤島。人口はおよそ２０人。生活はほとんど自給自足、水も雨水を利用しています。島の歴史と人々の暮らしを紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

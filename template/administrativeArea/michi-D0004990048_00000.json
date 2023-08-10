@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "ホタルイカ",
+  "description": "詳細: 富山湾でのホタルイカ漁の様子や、地元ならではのおいしい食べ方などを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "AdministrativeArea",
+    "name": "?"
+  }
+}

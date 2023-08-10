@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004010010_00000",
+  "@type": "Clip",
+  "name": "ＪＲ米坂線",
+  "description": "詳細: 山形県の米沢駅から新潟県村上市の坂町駅を結ぶＪＲ東日本の路線です。坂町駅で羽越本線に接続します。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "住所: （坂町駅）村上市坂町",
+    "都道府県: 山形県　新潟県"
+  ]
+}

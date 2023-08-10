@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004150039_00000",
+  "@type": "Clip",
+  "name": "北九州・小倉競馬場",
+  "description": "詳細: 大地を蹴り、鼓動を鳴らして駿馬が駆け抜けます。\\n\\n（この動画は、２００１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/福岡"
+    },
+    "都道府県: 福岡県",
+    "住所: 北九州市小倉南区"
+  ]
+}

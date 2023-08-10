@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990229_00000",
+  "@type": "Clip",
+  "name": "秩父巡礼",
+  "description": "詳細: 埼玉県秩父地方の三十四カ所観音霊場めぐりを、歴史的背景とともに紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/埼玉"
+    },
+    "住所: 秩父市上影森、山田",
+    "都道府県: 埼玉県"
+  ]
+}

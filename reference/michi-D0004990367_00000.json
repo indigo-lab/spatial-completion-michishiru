@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990367_00000",
+  "@type": "Clip",
+  "name": "お燈まつり",
+  "description": "詳細: 和歌山県新宮市神倉山。毎年２月６日に、１４００年続くといわれる伝統の火祭り、「お燈まつり」が行われます。「山は火の滝　下り龍」とも唄われる壮観な様を堪能します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/和歌山"
+    },
+    "住所: 新宮市神倉",
+    "都道府県: 和歌山県"
+  ]
+}

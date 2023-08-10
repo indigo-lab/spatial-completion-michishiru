@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大間温泉",
+  "description": "詳細: 極上品のマグロが水揚げされることで有名な青森県大間町。町外れの丘の上に町営の温泉施設、大間温泉があります。利用客のほとんどが地元の常連客で、身体の芯まで温まる湯として冬の海で仕事をする漁師にも人気です。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

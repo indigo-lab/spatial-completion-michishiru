@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "二葉御殿",
+  "description": "詳細: 日本初の国際女優・川上貞奴と、実業家・福沢桃介が暮らした家・二葉御殿。個人のための住宅が重要なテーマとなっていた大正時代。貞奴は世界各地で目にしたモダンな暮らしを、この家に取り込みました。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

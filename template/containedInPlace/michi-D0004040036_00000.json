@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "蓼科山",
+  "description": "詳細: 北八ヶ岳の北端にある蓼科山は標高２５３０ｍ。きれいな円錐形をしていて、「諏訪富士」とも呼ばれています。北アルプスの山々とは異なり、丸い山容で昔から神山として崇められてきました。\\n\\n（この動画は、２００８年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

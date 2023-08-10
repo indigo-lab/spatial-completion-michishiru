@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500182_00000",
+  "@type": "Clip",
+  "name": "金森赤レンガ倉庫",
+  "description": "詳細: 北海道・函館港に沿って建ち並ぶ金森赤レンガ倉庫は、明治４０年代に建てられたレンガ造りの倉庫群です。明治時代の末から、地元でとれた海産物を収めてきました。\\n\\n（この動画は、１９９８年に取材したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 函館市末広町",
+    "都道府県: 北海道"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "赤倉温泉",
+  "description": "詳細: 新潟県南西部、妙高山の麓の赤倉温泉。多くの旅館が建ち並び、登山やスキーなどの観光客で賑わいます。お湯の配管に付着した湯華を掃除する「縄流し」という作業。赤倉温泉の名物です。\\n\\n（この動画は、２００７年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

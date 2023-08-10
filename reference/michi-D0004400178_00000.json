@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004400178_00000",
+  "@type": "Clip",
+  "name": "函館空港",
+  "description": "詳細: 映像は１９６６年（昭和４１）に撮影された函館空港の様子です。函館空港は１９６１年（昭和３６）に開港、函館市の中心部から約１０ｋｍほどのところにあります。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 函館市高松町",
+    "都道府県: 北海道"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004150019_00000",
+  "@type": "Clip",
+  "name": "大倉山シャンツェ",
+  "description": "詳細: 札幌市大倉山ジャンプ競技場では、オリンピックを始め、数々の名勝負が繰り広げられてきました。踏み切りの瞬間、時速９０ｋｍにもなります。\\n\\n（この動画は、２００３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/北海道"
+    },
+    "住所: 札幌市中央区宮の森",
+    "都道府県: 北海道"
+  ]
+}

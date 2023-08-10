@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990225_00000",
+  "@type": "Clip",
+  "name": "蔵王権現～山形・下宝沢",
+  "description": "詳細: 山形・宮城にまたがる蔵王連峰。荒ぶる山を鎮めるため、修験者たちは、蔵王権現という神を祀りました。今も麓の集落で大切に守られている蔵王権現を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/山形"
+    },
+    "都道府県: 山形県",
+    "住所: 山形市下宝沢"
+  ]
+}

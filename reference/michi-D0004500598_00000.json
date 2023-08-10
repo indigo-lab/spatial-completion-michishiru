@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500598_00000",
+  "@type": "Clip",
+  "name": "小豆島の寒霞溪",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。寒霞渓（かんかけい）は小豆島のほぼ中央にある渓谷です。そそりたつ奇岩怪石が作り出す絶景をロープウェイから楽しむことができます。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/香川"
+    },
+    "都道府県: 香川県",
+    "住所: 小豆郡小豆島町"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990578_00000",
+  "@type": "Clip",
+  "name": "青森のりんご",
+  "description": "詳細: 生産量日本一を誇るりんご王国、青森県津軽地方。りんご栽培はほとんどが手作業の中、受粉作業を手伝ってくれる心強い助っ人とは…。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/青森"
+    },
+    "住所: 北津軽郡板柳町",
+    "都道府県: 青森県"
+  ]
+}

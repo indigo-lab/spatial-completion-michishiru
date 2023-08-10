@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "北海道本別町",
+  "description": "詳細: 本別町は、北海道十勝地方の東北部にあります。特産は「豆」です。豆作りに適した冷涼で晴天の多い気候のもと、良質の大豆や小豆、金時豆が栽培されています。黒豆を使った豆腐などの商品も製造しています。\\n\\n（この動画は、２００１年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

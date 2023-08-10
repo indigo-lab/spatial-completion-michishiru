@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990284_00000",
+  "@type": "Clip",
+  "name": "日南海岸",
+  "description": "詳細: 宮崎県屈指の観光スポット、日南海岸。鬼の洗濯岩と呼ばれる岩場、亜熱帯植物に覆われた青島、野生の馬が群れなす都井岬など、海岸沿いの観光スポットを巡ります。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/宮崎"
+    },
+    "住所: 宮崎市青島",
+    "都道府県: 宮崎県"
+  ]
+}

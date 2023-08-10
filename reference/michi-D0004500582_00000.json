@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004500582_00000",
+  "@type": "Clip",
+  "name": "空から見た白山",
+  "description": "詳細: 全国各地の自然や名勝、建造物などを空から撮影したシリーズ「ＮＨＫ空中散歩」。白山は、石川県と岐阜県にまたがる標高２７０２ｍの山です。古くから信仰の山として敬われ、日本三名山の一つに数えられています。",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/石川"
+    },
+    "都道府県: 石川県",
+    "住所: 白山市白峰"
+  ]
+}

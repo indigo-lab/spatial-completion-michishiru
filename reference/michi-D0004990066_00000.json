@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990066_00000",
+  "@type": "Clip",
+  "name": "姫路城",
+  "description": "詳細: 世界文化遺産にも登録されている、国宝・姫路城。現存する日本最大の城郭建築です。美しい外観とは裏腹に、外敵を討つ様々な仕掛けが組み込まれています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/兵庫"
+    },
+    "住所: 姫路市本町",
+    "都道府県: 兵庫県"
+  ]
+}

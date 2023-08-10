@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990489_00000",
+  "@type": "Clip",
+  "name": "長崎　赤島",
+  "description": "詳細: 周囲６キロの小さな島、赤島。人口はおよそ２０人。生活はほとんど自給自足、水も雨水を利用しています。島の歴史と人々の暮らしを紹介します。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/長崎"
+    },
+    "住所: 五島市赤島町",
+    "都道府県: 長崎県"
+  ]
+}

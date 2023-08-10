@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004060054_00000",
+  "@type": "Clip",
+  "name": "秋田　玉川",
+  "description": "詳細: 八幡平の一角に源をもち、奥羽山脈からの流れをいくつも集めて雄物川に合流する秋田県の玉川。イワナやウグイが躍る渓流や、熱湯の湧く沢、名瀑など、さまざまな表情をもった川です。\\n\\n（この動画は、２００６年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/秋田"
+    },
+    "住所: 仙北市、大仙市",
+    "都道府県: 秋田県"
+  ]
+}

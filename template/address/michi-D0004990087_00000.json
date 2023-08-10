@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "五島列島",
+  "description": "詳細: 大小１４０もの島が連なる長崎県　五島列島。冬になると、無数の椿が色鮮やかに咲き誇ります。この地は、古くから隠れキリシタンの里でした。信者たちの受難の歴史を見つめてきた椿の花は今もなお、静かに咲き続けています。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

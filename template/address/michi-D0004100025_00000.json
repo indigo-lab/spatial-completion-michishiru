@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "南宗寺",
+  "description": "詳細: 堺の豪商の子として早くから茶の湯に親しんだ千利休は、南宗寺で修行したと伝えられています。「茶の湯」の文化は、戦国武将たちのたしなみにもなっていくことで、利休は絶大な権力を誇る秀吉の懐に、深く入り込んでいきました。\\n\\n（この動画は、２００９年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

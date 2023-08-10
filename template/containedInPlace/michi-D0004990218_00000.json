@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "浅草寺の仲見世",
+  "description": "詳細: 年間３千万もの観光客が訪れる東京・浅草。雷門を抜け、浅草寺へと向かう参道、仲見世はいつも大賑わいです。江戸っ子ならではの遊び心に満ちた、江戸趣味小玩具の店を紹介します。\\n\\n（この動画は、２０１２年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

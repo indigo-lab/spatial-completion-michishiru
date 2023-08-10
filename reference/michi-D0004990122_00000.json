@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990122_00000",
+  "@type": "Clip",
+  "name": "遠野の神さま",
+  "description": "詳細: 「遠野物語」で知られる、岩手県遠野市。カッパやザシキワラシなど、不思議な者たちが登場する民話が語り継がれてきました。身近な神さまへの信仰がいまも残る遠野を訪ねます。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岩手"
+    },
+    "住所: 遠野市東舘町",
+    "都道府県: 岩手県"
+  ]
+}

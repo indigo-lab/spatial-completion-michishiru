@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990186_00000",
+  "@type": "Clip",
+  "name": "阿波おどり",
+  "description": "詳細: 夏の徳島と言えば阿波おどり。お盆の時期、町は阿波おどり一色に染まります。男女で違う踊りの特色、盆踊りとしてのルーツなど、阿波おどりのイロハを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/徳島"
+    },
+    "住所: 徳島市津田本町",
+    "都道府県: 徳島県"
+  ]
+}

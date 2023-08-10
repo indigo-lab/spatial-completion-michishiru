@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "大日岳",
+  "description": "詳細: 飛騨山脈立山連峰から派生する大日尾根にある大日岳。古くから信仰の山として知られ、修験者の修行の場であったと伝えられています。夏には高山植物が咲き乱れ、剱岳や立山を存分に眺めながら、山歩きを楽しめます。\\n\\n（この動画は、２００５年に取材したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "?"
+    }
+  }
+}

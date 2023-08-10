@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "小豆島の妖怪伝説",
+  "description": "詳細: 小豆島に伝わる不思議な妖怪伝説。家族団らんの中で語り継がれた心温まる妖怪たちを紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}

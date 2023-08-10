@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990435_00000",
+  "@type": "Clip",
+  "name": "倉敷の美術館",
+  "description": "詳細: 年間３００万人の観光客が訪れる岡山県倉敷市。ここに倉敷の実業家が昭和初期に築いた、日本初の西洋美術館があります。ゴーギャンやモネなど、世界的な名画を間近で楽しめます。\\n\\n（この動画は、２０１３年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/岡山"
+    },
+    "住所: 倉敷市中央",
+    "都道府県: 岡山県"
+  ]
+}

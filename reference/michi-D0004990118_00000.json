@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@id": "https://jpsearch.go.jp/data/michi-D0004990118_00000",
+  "@type": "Clip",
+  "name": "なまはげ",
+  "description": "詳細: 秋田県男鹿半島に伝わる、なまはげ。恐ろしい扮装をしたなまはげが、大晦日に里の家々をまわる有名な伝統行事です。荒々しい動きにこめられた願いと祈りをお伝えします。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": [
+    {
+      "@id": "https://jpsearch.go.jp/entity/place/秋田"
+    },
+    "住所: 男鹿市北浦真山",
+    "都道府県: 秋田県"
+  ]
+}

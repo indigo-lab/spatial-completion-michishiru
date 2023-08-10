@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Clip",
+  "name": "石鎚山",
+  "description": "詳細: 西日本最高峰、愛媛県東部にある石鎚山（いしづちさん）。弘法大師も修行したと伝えられる、修験道の山です。四季折々に見せる表情や、石鎚神社の年中行事を紹介します。\\n\\n（この動画は、２０１１年に放送したものです。）",
+  "spatial": {
+    "@type": "Place",
+    "name": "?",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "?"
+    }
+  }
+}
